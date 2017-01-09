@@ -1,27 +1,27 @@
-@charset "Shift_JIS";
+ï»¿@charset "Shift_JIS";
 
 /*
 *
-*yCSS‚ÌƒJƒXƒ^ƒ}ƒCƒY‚É‚Â‚¢‚Äz
+*ã€CSSã®ã‚«ã‚¹ã‚¿ãƒã‚¤ã‚ºã«ã¤ã„ã¦ã€‘
 *
-*¡•¶šƒTƒCƒY‚ğ•ÏX‚µ‚½‚¢ê‡‚Í
-*@Ëfont-size:››px;
-*@@@@@@@@‚Ìu››v•”•ª‚ğ•ÏX‚µ‚Ü‚·B
+*â– æ–‡å­—ã‚µã‚¤ã‚ºã‚’å¤‰æ›´ã—ãŸã„å ´åˆã¯
+*ã€€â‡’font-size:â—‹â—‹px;
+*ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã®ã€Œâ—‹â—‹ã€éƒ¨åˆ†ã‚’å¤‰æ›´ã—ã¾ã™ã€‚
 *
-*¡F‚ğ•ÏX‚µ‚½‚¢ê‡‚Í
-*@Ëcolor:#››››››;
-*@@background-color:#››››››;
-*@@border-top:#››››››
-*@@@@@@@@‚È‚Ç‚Ìu#››››››v•”•ª‚ğ
-*@@@@@@@@16i–@@or@F‚Ì–¼‘Oired/blue‚È‚Çj‚É•ÏX‚µ‚Ü‚·B
+*â– è‰²ã‚’å¤‰æ›´ã—ãŸã„å ´åˆã¯
+*ã€€â‡’color:#â—‹â—‹â—‹â—‹â—‹â—‹;
+*ã€€ã€€background-color:#â—‹â—‹â—‹â—‹â—‹â—‹;
+*ã€€ã€€border-top:#â—‹â—‹â—‹â—‹â—‹â—‹
+*ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ãªã©ã®ã€Œ#â—‹â—‹â—‹â—‹â—‹â—‹ã€éƒ¨åˆ†ã‚’
+*ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€16é€²æ³•ã€€orã€€è‰²ã®åå‰ï¼ˆred/blueãªã©ï¼‰ã«å¤‰æ›´ã—ã¾ã™ã€‚
 *
-*@@¦QlË@http://ja.wikipedia.org/wiki/ƒJƒ‰[ƒ`ƒƒ[ƒg
+*ã€€ã€€â€»å‚è€ƒâ‡’ã€€http://ja.wikipedia.org/wiki/ã‚«ãƒ©ãƒ¼ãƒãƒ£ãƒ¼ãƒˆ
 *
 */
 
 
 
-/*** ‘S‘Ì ***/
+/*** å…¨ä½“ ***/
 body,
 html{
 	margin:0;
@@ -45,7 +45,7 @@ img{
 
 h1{
 	font-weight:normal;
-	font-family:'ƒqƒ‰ƒMƒmŠpƒS Pro W3','Hiragino Kaku Gothic Pro','ƒƒCƒŠƒI',Meiryo,'‚l‚r ‚oƒSƒVƒbƒN',sans-serif;
+	font-family:'ãƒ’ãƒ©ã‚®ãƒè§’ã‚´ Pro W3','Hiragino Kaku Gothic Pro','ãƒ¡ã‚¤ãƒªã‚ª',Meiryo,'ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯',sans-serif;
 	font-size:12px;
 	line-height:0em;
 }
@@ -87,7 +87,7 @@ hr{
 	background:#ffffff;
 }
 
-/*** ƒwƒbƒ_[ ***/
+/*** ãƒ˜ãƒƒãƒ€ãƒ¼ ***/
 
 #header{
 	margin:0;
@@ -116,7 +116,7 @@ hr{
 	color:#222222;
 }
 
-/*** ƒƒCƒ“ƒRƒ“ƒeƒ“ƒc•”•ª ***/
+/*** ãƒ¡ã‚¤ãƒ³ã‚³ãƒ³ãƒ†ãƒ³ãƒ„éƒ¨åˆ† ***/
 
 #main{
 	margin-left:auto;
@@ -210,7 +210,7 @@ dd img{
 	width:400px;
 }
 
-/*** ƒTƒCƒhƒƒjƒ…[ ***/
+/*** ã‚µã‚¤ãƒ‰ãƒ¡ãƒ‹ãƒ¥ãƒ¼ ***/
 
 #sidemenucontainer{
 	width:210px;
@@ -270,7 +270,7 @@ dd img{
 	line-height:1.2em;
 }
 
-/*** ƒtƒbƒ^[ ***/
+/*** ãƒ•ãƒƒã‚¿ãƒ¼ ***/
 
 #footer{
 	margin-left:auto;
@@ -283,7 +283,7 @@ dd img{
 	background:url(../img/bg_footer.gif) repeat-x bottom;
 }
 
-/*** ‰ñ‚è‚İ‰ğœ ***/
+/*** å›ã‚Šè¾¼ã¿è§£é™¤ ***/
 
 .clearfix:before,.clearfix:after {
     content:"";
