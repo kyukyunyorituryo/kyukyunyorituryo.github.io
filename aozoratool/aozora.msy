@@ -1,0 +1,48 @@
+﻿#TagBegin=［
+#TagEnd=］
+#CommentBegin1=-------------------------------------------------------
+#CommentEnd1=-------------------------------------------------------
+#LineComment1=このファイルは
+#CommentBegin2=底本：
+#CommentEnd2=青空文庫作成ファイル：
+#LineComment2=
+#SpecialSyntax=None
+#ScriptBegin=
+#ScriptEnd=
+#QuoteSingle=False
+#QuoteDouble=False
+#QuoteContinue=False
+#EscapeCharacter=
+
+#Word Color=0, WholeWord=False, RightSide=False, MatchCase=True, InsideTag=False, RegEx=True
+※［＃.+?］
+《.+?》
+｜.+?》
+
+#Word Color=6, WholeWord=False, RightSide=False, MatchCase=True, InsideTag=False, RegEx=False
+［＃ここから大見出し］
+［＃ここで大見出し終わり］
+
+#Word Color=6, WholeWord=False, RightSide=False, MatchCase=True, InsideTag=False, RegEx=True
+＃(大|同行大|窓大)見出し.+?＃(大|同行大|窓大)見出し終わり
+
+#Word Color=6, WholeWord=True, RightSide=False, MatchCase=True, InsideTag=True, RegEx=True
+＃「.+?」は(大|同行大|窓大)見出し
+
+#Word Color=7, WholeWord=False, RightSide=False, MatchCase=True, InsideTag=False, RegEx=False
+［＃ここから中見出し］
+［＃ここから小見出し］
+［＃ここで中見出し終わり］
+［＃ここで小見出し終わり］
+
+#Word Color=7, WholeWord=False, RightSide=False, MatchCase=True, InsideTag=False, RegEx=True
+＃小見出し.+?＃小見出し終わり
+
+#Word Color=7, WholeWord=False, RightSide=False, MatchCase=True, InsideTag=True, RegEx=True
+＃中見出し.+?＃中見出し終わり
+
+#Word Color=7, WholeWord=True, RightSide=False, MatchCase=True, InsideTag=True, RegEx=True
+＃(中|同行中|窓中)見出し.+?＃(中|同行中|窓中)見出し終わり
+＃(小|同行小|窓小)見出し.+?＃(小|同行小|窓小)見出し終わり
+＃「.+?」は(中|同行中|窓中)見出し
+＃「.+?」は(小|同行小|窓小)見出し
