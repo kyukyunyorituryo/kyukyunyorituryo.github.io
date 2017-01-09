@@ -1,0 +1,1970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+<meta name="dtb:uid" content="urn:uuid:6649fa17-afcb-3c08-8737-17cd7a1f7930"/>
+<meta name="dtb:depth" content="1"/>
+<meta name="dtb:totalPageCount" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle>
+	<text>三国志</text>
+</docTitle>
+<navMap>
+	<navPoint id="toc1" playOrder="1">
+		<navLabel>
+			<text>序</text>
+		</navLabel>
+		<content src="xhtml/0001.xhtml"/>
+	</navPoint>
+	<navPoint id="toc2" playOrder="2">
+		<navLabel>
+			<text>桃園の巻</text>
+		</navLabel>
+		<content src="xhtml/0002.xhtml"/>
+	</navPoint>
+	<navPoint id="toc3" playOrder="3">
+		<navLabel>
+			<text>黄巾賊</text>
+		</navLabel>
+		<content src="xhtml/0002.xhtml#kobo.2.1"/>
+	</navPoint>
+	<navPoint id="toc4" playOrder="4">
+		<navLabel>
+			<text>流行る童歌</text>
+		</navLabel>
+		<content src="xhtml/0002.xhtml#kobo.212.1"/>
+	</navPoint>
+	<navPoint id="toc5" playOrder="5">
+		<navLabel>
+			<text>白芙蓉</text>
+		</navLabel>
+		<content src="xhtml/0002.xhtml#kobo.404.1"/>
+	</navPoint>
+	<navPoint id="toc6" playOrder="6">
+		<navLabel>
+			<text>張飛卒</text>
+		</navLabel>
+		<content src="xhtml/0002.xhtml#kobo.539.1"/>
+	</navPoint>
+	<navPoint id="toc7" playOrder="7">
+		<navLabel>
+			<text>桑の家</text>
+		</navLabel>
+		<content src="xhtml/0002.xhtml#kobo.665.1"/>
+	</navPoint>
+	<navPoint id="toc8" playOrder="8">
+		<navLabel>
+			<text>橋畔風談</text>
+		</navLabel>
+		<content src="xhtml/0002.xhtml#kobo.933.1"/>
+	</navPoint>
+	<navPoint id="toc9" playOrder="9">
+		<navLabel>
+			<text>童学草舎</text>
+		</navLabel>
+		<content src="xhtml/0002.xhtml#kobo.1103.1"/>
+	</navPoint>
+	<navPoint id="toc10" playOrder="10">
+		<navLabel>
+			<text>三花一瓶</text>
+		</navLabel>
+		<content src="xhtml/0002.xhtml#kobo.1260.1"/>
+	</navPoint>
+	<navPoint id="toc11" playOrder="11">
+		<navLabel>
+			<text>義盟</text>
+		</navLabel>
+		<content src="xhtml/0002.xhtml#kobo.1454.1"/>
+	</navPoint>
+	<navPoint id="toc12" playOrder="12">
+		<navLabel>
+			<text>転戦</text>
+		</navLabel>
+		<content src="xhtml/0002.xhtml#kobo.1662.1"/>
+	</navPoint>
+	<navPoint id="toc13" playOrder="13">
+		<navLabel>
+			<text>檻車</text>
+		</navLabel>
+		<content src="xhtml/0002.xhtml#kobo.1876.1"/>
+	</navPoint>
+	<navPoint id="toc14" playOrder="14">
+		<navLabel>
+			<text>秋風陣</text>
+		</navLabel>
+		<content src="xhtml/0002.xhtml#kobo.2114.1"/>
+	</navPoint>
+	<navPoint id="toc15" playOrder="15">
+		<navLabel>
+			<text>十常侍</text>
+		</navLabel>
+		<content src="xhtml/0002.xhtml#kobo.2396.1"/>
+	</navPoint>
+	<navPoint id="toc16" playOrder="16">
+		<navLabel>
+			<text>打風乱柳</text>
+		</navLabel>
+		<content src="xhtml/0002.xhtml#kobo.2544.1"/>
+	</navPoint>
+	<navPoint id="toc17" playOrder="17">
+		<navLabel>
+			<text>岳南の佳人</text>
+		</navLabel>
+		<content src="xhtml/0002.xhtml#kobo.2642.1"/>
+	</navPoint>
+	<navPoint id="toc18" playOrder="18">
+		<navLabel>
+			<text>故園</text>
+		</navLabel>
+		<content src="xhtml/0002.xhtml#kobo.2840.1"/>
+	</navPoint>
+	<navPoint id="toc19" playOrder="19">
+		<navLabel>
+			<text>乱兆</text>
+		</navLabel>
+		<content src="xhtml/0002.xhtml#kobo.2936.1"/>
+	</navPoint>
+	<navPoint id="toc20" playOrder="20">
+		<navLabel>
+			<text>舞刀飛首</text>
+		</navLabel>
+		<content src="xhtml/0002.xhtml#kobo.3056.1"/>
+	</navPoint>
+	<navPoint id="toc21" playOrder="21">
+		<navLabel>
+			<text>蛍の彷徨い</text>
+		</navLabel>
+		<content src="xhtml/0002.xhtml#kobo.3227.1"/>
+	</navPoint>
+	<navPoint id="toc22" playOrder="22">
+		<navLabel>
+			<text>呂布</text>
+		</navLabel>
+		<content src="xhtml/0002.xhtml#kobo.3381.1"/>
+	</navPoint>
+	<navPoint id="toc23" playOrder="23">
+		<navLabel>
+			<text>赤兎馬</text>
+		</navLabel>
+		<content src="xhtml/0002.xhtml#kobo.3483.1"/>
+	</navPoint>
+	<navPoint id="toc24" playOrder="24">
+		<navLabel>
+			<text>春園走獣</text>
+		</navLabel>
+		<content src="xhtml/0002.xhtml#kobo.3713.1"/>
+	</navPoint>
+	<navPoint id="toc25" playOrder="25">
+		<navLabel>
+			<text>白面郎「曹操」</text>
+		</navLabel>
+		<content src="xhtml/0002.xhtml#kobo.3861.1"/>
+	</navPoint>
+	<navPoint id="toc26" playOrder="26">
+		<navLabel>
+			<text>群星の巻</text>
+		</navLabel>
+		<content src="xhtml/0003.xhtml"/>
+	</navPoint>
+	<navPoint id="toc27" playOrder="27">
+		<navLabel>
+			<text>偽忠狼心</text>
+		</navLabel>
+		<content src="xhtml/0003.xhtml#kobo.2.1"/>
+	</navPoint>
+	<navPoint id="toc28" playOrder="28">
+		<navLabel>
+			<text>競う南風</text>
+		</navLabel>
+		<content src="xhtml/0003.xhtml#kobo.193.1"/>
+	</navPoint>
+	<navPoint id="toc29" playOrder="29">
+		<navLabel>
+			<text>江東の虎</text>
+		</navLabel>
+		<content src="xhtml/0003.xhtml#kobo.404.1"/>
+	</navPoint>
+	<navPoint id="toc30" playOrder="30">
+		<navLabel>
+			<text>関羽一杯の酒</text>
+		</navLabel>
+		<content src="xhtml/0003.xhtml#kobo.521.1"/>
+	</navPoint>
+	<navPoint id="toc31" playOrder="31">
+		<navLabel>
+			<text>虎牢関</text>
+		</navLabel>
+		<content src="xhtml/0003.xhtml#kobo.749.1"/>
+	</navPoint>
+	<navPoint id="toc32" playOrder="32">
+		<navLabel>
+			<text>洛陽落日賦</text>
+		</navLabel>
+		<content src="xhtml/0003.xhtml#kobo.946.1"/>
+	</navPoint>
+	<navPoint id="toc33" playOrder="33">
+		<navLabel>
+			<text>生死一川</text>
+		</navLabel>
+		<content src="xhtml/0003.xhtml#kobo.1187.1"/>
+	</navPoint>
+	<navPoint id="toc34" playOrder="34">
+		<navLabel>
+			<text>珠</text>
+		</navLabel>
+		<content src="xhtml/0003.xhtml#kobo.1332.1"/>
+	</navPoint>
+	<navPoint id="toc35" playOrder="35">
+		<navLabel>
+			<text>白馬将軍</text>
+		</navLabel>
+		<content src="xhtml/0003.xhtml#kobo.1505.1"/>
+	</navPoint>
+	<navPoint id="toc36" playOrder="36">
+		<navLabel>
+			<text>溯江</text>
+		</navLabel>
+		<content src="xhtml/0003.xhtml#kobo.1708.1"/>
+	</navPoint>
+	<navPoint id="toc37" playOrder="37">
+		<navLabel>
+			<text>石</text>
+		</navLabel>
+		<content src="xhtml/0003.xhtml#kobo.1938.1"/>
+	</navPoint>
+	<navPoint id="toc38" playOrder="38">
+		<navLabel>
+			<text>牡丹亭</text>
+		</navLabel>
+		<content src="xhtml/0003.xhtml#kobo.2033.1"/>
+	</navPoint>
+	<navPoint id="toc39" playOrder="39">
+		<navLabel>
+			<text>傾国</text>
+		</navLabel>
+		<content src="xhtml/0003.xhtml#kobo.2177.1"/>
+	</navPoint>
+	<navPoint id="toc40" playOrder="40">
+		<navLabel>
+			<text>痴蝶鏡</text>
+		</navLabel>
+		<content src="xhtml/0003.xhtml#kobo.2363.1"/>
+	</navPoint>
+	<navPoint id="toc41" playOrder="41">
+		<navLabel>
+			<text>絶纓の会</text>
+		</navLabel>
+		<content src="xhtml/0003.xhtml#kobo.2503.1"/>
+	</navPoint>
+	<navPoint id="toc42" playOrder="42">
+		<navLabel>
+			<text>天颷</text>
+		</navLabel>
+		<content src="xhtml/0003.xhtml#kobo.2667.1"/>
+	</navPoint>
+	<navPoint id="toc43" playOrder="43">
+		<navLabel>
+			<text>人間燈</text>
+		</navLabel>
+		<content src="xhtml/0003.xhtml#kobo.2811.1"/>
+	</navPoint>
+	<navPoint id="toc44" playOrder="44">
+		<navLabel>
+			<text>大権転々</text>
+		</navLabel>
+		<content src="xhtml/0003.xhtml#kobo.3065.1"/>
+	</navPoint>
+	<navPoint id="toc45" playOrder="45">
+		<navLabel>
+			<text>秋雨の頃</text>
+		</navLabel>
+		<content src="xhtml/0003.xhtml#kobo.3217.1"/>
+	</navPoint>
+	<navPoint id="toc46" playOrder="46">
+		<navLabel>
+			<text>死活往来</text>
+		</navLabel>
+		<content src="xhtml/0003.xhtml#kobo.3345.1"/>
+	</navPoint>
+	<navPoint id="toc47" playOrder="47">
+		<navLabel>
+			<text>牛と「いなご」</text>
+		</navLabel>
+		<content src="xhtml/0003.xhtml#kobo.3677.1"/>
+	</navPoint>
+	<navPoint id="toc48" playOrder="48">
+		<navLabel>
+			<text>愚兄と賢弟</text>
+		</navLabel>
+		<content src="xhtml/0003.xhtml#kobo.3856.1"/>
+	</navPoint>
+	<navPoint id="toc49" playOrder="49">
+		<navLabel>
+			<text>毒と毒</text>
+		</navLabel>
+		<content src="xhtml/0003.xhtml#kobo.4005.1"/>
+	</navPoint>
+	<navPoint id="toc50" playOrder="50">
+		<navLabel>
+			<text>草莽の巻</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml"/>
+	</navPoint>
+	<navPoint id="toc51" playOrder="51">
+		<navLabel>
+			<text>巫女</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml#kobo.2.1"/>
+	</navPoint>
+	<navPoint id="toc52" playOrder="52">
+		<navLabel>
+			<text>緑林の宮</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml#kobo.134.1"/>
+	</navPoint>
+	<navPoint id="toc53" playOrder="53">
+		<navLabel>
+			<text>改元</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml#kobo.298.1"/>
+	</navPoint>
+	<navPoint id="toc54" playOrder="54">
+		<navLabel>
+			<text>火星と金星</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml#kobo.481.1"/>
+	</navPoint>
+	<navPoint id="toc55" playOrder="55">
+		<navLabel>
+			<text>両虎競食の計</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml#kobo.646.1"/>
+	</navPoint>
+	<navPoint id="toc56" playOrder="56">
+		<navLabel>
+			<text>禁酒砕杯の約</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml#kobo.770.1"/>
+	</navPoint>
+	<navPoint id="toc57" playOrder="57">
+		<navLabel>
+			<text>母と妻と友</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml#kobo.1005.1"/>
+	</navPoint>
+	<navPoint id="toc58" playOrder="58">
+		<navLabel>
+			<text>大江の魚</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml#kobo.1172.1"/>
+	</navPoint>
+	<navPoint id="toc59" playOrder="59">
+		<navLabel>
+			<text>神亭廟</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml#kobo.1305.1"/>
+	</navPoint>
+	<navPoint id="toc60" playOrder="60">
+		<navLabel>
+			<text>好敵手</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml#kobo.1407.1"/>
+	</navPoint>
+	<navPoint id="toc61" playOrder="61">
+		<navLabel>
+			<text>小覇王</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml#kobo.1530.1"/>
+	</navPoint>
+	<navPoint id="toc62" playOrder="62">
+		<navLabel>
+			<text>日時計</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml#kobo.1635.1"/>
+	</navPoint>
+	<navPoint id="toc63" playOrder="63">
+		<navLabel>
+			<text>名医</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml#kobo.1788.1"/>
+	</navPoint>
+	<navPoint id="toc64" playOrder="64">
+		<navLabel>
+			<text>平和主義者</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml#kobo.1977.1"/>
+	</navPoint>
+	<navPoint id="toc65" playOrder="65">
+		<navLabel>
+			<text>花嫁</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml#kobo.2172.1"/>
+	</navPoint>
+	<navPoint id="toc66" playOrder="66">
+		<navLabel>
+			<text>馬盗人</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml#kobo.2385.1"/>
+	</navPoint>
+	<navPoint id="toc67" playOrder="67">
+		<navLabel>
+			<text>胡弓夫人</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml#kobo.2490.1"/>
+	</navPoint>
+	<navPoint id="toc68" playOrder="68">
+		<navLabel>
+			<text>淯水は紅し</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml#kobo.2627.1"/>
+	</navPoint>
+	<navPoint id="toc69" playOrder="69">
+		<navLabel>
+			<text>陳大夫</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml#kobo.2813.1"/>
+	</navPoint>
+	<navPoint id="toc70" playOrder="70">
+		<navLabel>
+			<text>増長冠</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml#kobo.2944.1"/>
+	</navPoint>
+	<navPoint id="toc71" playOrder="71">
+		<navLabel>
+			<text>仲秋荒天</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml#kobo.3081.1"/>
+	</navPoint>
+	<navPoint id="toc72" playOrder="72">
+		<navLabel>
+			<text>空腹・満腹</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml#kobo.3190.1"/>
+	</navPoint>
+	<navPoint id="toc73" playOrder="73">
+		<navLabel>
+			<text>梅酸・夏の陣</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml#kobo.3311.1"/>
+	</navPoint>
+	<navPoint id="toc74" playOrder="74">
+		<navLabel>
+			<text>北客</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml#kobo.3496.1"/>
+	</navPoint>
+	<navPoint id="toc75" playOrder="75">
+		<navLabel>
+			<text>健啖天下一</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml#kobo.3635.1"/>
+	</navPoint>
+	<navPoint id="toc76" playOrder="76">
+		<navLabel>
+			<text>黒風白雨</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml#kobo.3887.1"/>
+	</navPoint>
+	<navPoint id="toc77" playOrder="77">
+		<navLabel>
+			<text>奇計</text>
+		</navLabel>
+		<content src="xhtml/0004.xhtml#kobo.4044.1"/>
+	</navPoint>
+	<navPoint id="toc78" playOrder="78">
+		<navLabel>
+			<text>臣道の巻</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml"/>
+	</navPoint>
+	<navPoint id="toc79" playOrder="79">
+		<navLabel>
+			<text>煩悩攻防戦</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.2.1"/>
+	</navPoint>
+	<navPoint id="toc80" playOrder="80">
+		<navLabel>
+			<text>破瓶</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.207.1"/>
+	</navPoint>
+	<navPoint id="toc81" playOrder="81">
+		<navLabel>
+			<text>白門楼始末</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.303.1"/>
+	</navPoint>
+	<navPoint id="toc82" playOrder="82">
+		<navLabel>
+			<text>許田の猟</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.446.1"/>
+	</navPoint>
+	<navPoint id="toc83" playOrder="83">
+		<navLabel>
+			<text>秘勅を縫う</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.596.1"/>
+	</navPoint>
+	<navPoint id="toc84" playOrder="84">
+		<navLabel>
+			<text>油情燈心</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.715.1"/>
+	</navPoint>
+	<navPoint id="toc85" playOrder="85">
+		<navLabel>
+			<text>鶏鳴</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.916.1"/>
+	</navPoint>
+	<navPoint id="toc86" playOrder="86">
+		<navLabel>
+			<text>青梅、酒ヲ煮テ、英雄ヲ論ズ</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.984.1"/>
+	</navPoint>
+	<navPoint id="toc87" playOrder="87">
+		<navLabel>
+			<text>雷怯子</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.1138.1"/>
+	</navPoint>
+	<navPoint id="toc88" playOrder="88">
+		<navLabel>
+			<text>兇門脱出</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.1291.1"/>
+	</navPoint>
+	<navPoint id="toc89" playOrder="89">
+		<navLabel>
+			<text>偽帝の末路</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.1408.1"/>
+	</navPoint>
+	<navPoint id="toc90" playOrder="90">
+		<navLabel>
+			<text>霧風</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.1498.1"/>
+	</navPoint>
+	<navPoint id="toc91" playOrder="91">
+		<navLabel>
+			<text>一書十万兵</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.1566.1"/>
+	</navPoint>
+	<navPoint id="toc92" playOrder="92">
+		<navLabel>
+			<text>丞相旗</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.1651.1"/>
+	</navPoint>
+	<navPoint id="toc93" playOrder="93">
+		<navLabel>
+			<text>鬮</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.1700.1"/>
+	</navPoint>
+	<navPoint id="toc94" playOrder="94">
+		<navLabel>
+			<text>不戦不和</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.1794.1"/>
+	</navPoint>
+	<navPoint id="toc95" playOrder="95">
+		<navLabel>
+			<text>奇舌学人</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.1923.1"/>
+	</navPoint>
+	<navPoint id="toc96" playOrder="96">
+		<navLabel>
+			<text>雷鼓</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.2014.1"/>
+	</navPoint>
+	<navPoint id="toc97" playOrder="97">
+		<navLabel>
+			<text>鸚鵡州</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.2131.1"/>
+	</navPoint>
+	<navPoint id="toc98" playOrder="98">
+		<navLabel>
+			<text>太医吉平</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.2219.1"/>
+	</navPoint>
+	<navPoint id="toc99" playOrder="99">
+		<navLabel>
+			<text>美童</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.2329.1"/>
+	</navPoint>
+	<navPoint id="toc100" playOrder="100">
+		<navLabel>
+			<text>火か人か</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.2509.1"/>
+	</navPoint>
+	<navPoint id="toc101" playOrder="101">
+		<navLabel>
+			<text>小児病患者</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.2609.1"/>
+	</navPoint>
+	<navPoint id="toc102" playOrder="102">
+		<navLabel>
+			<text>玄徳冀州へ奔る</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.2673.1"/>
+	</navPoint>
+	<navPoint id="toc103" playOrder="103">
+		<navLabel>
+			<text>恋の曹操</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.2774.1"/>
+	</navPoint>
+	<navPoint id="toc104" playOrder="104">
+		<navLabel>
+			<text>大歩す臣道</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.2910.1"/>
+	</navPoint>
+	<navPoint id="toc105" playOrder="105">
+		<navLabel>
+			<text>破衣錦心</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.3034.1"/>
+	</navPoint>
+	<navPoint id="toc106" playOrder="106">
+		<navLabel>
+			<text>白馬の野</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.3158.1"/>
+	</navPoint>
+	<navPoint id="toc107" playOrder="107">
+		<navLabel>
+			<text>報恩一隻手</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.3223.1"/>
+	</navPoint>
+	<navPoint id="toc108" playOrder="108">
+		<navLabel>
+			<text>黄河を渡る</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.3333.1"/>
+	</navPoint>
+	<navPoint id="toc109" playOrder="109">
+		<navLabel>
+			<text>燈花占</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.3393.1"/>
+	</navPoint>
+	<navPoint id="toc110" playOrder="110">
+		<navLabel>
+			<text>風の便り</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.3548.1"/>
+	</navPoint>
+	<navPoint id="toc111" playOrder="111">
+		<navLabel>
+			<text>避客牌</text>
+		</navLabel>
+		<content src="xhtml/0005.xhtml#kobo.3633.1"/>
+	</navPoint>
+	<navPoint id="toc112" playOrder="112">
+		<navLabel>
+			<text>孔明の巻</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml"/>
+	</navPoint>
+	<navPoint id="toc113" playOrder="113">
+		<navLabel>
+			<text>関羽千里行</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml#kobo.2.1"/>
+	</navPoint>
+	<navPoint id="toc114" playOrder="114">
+		<navLabel>
+			<text>五関突破</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml#kobo.186.1"/>
+	</navPoint>
+	<navPoint id="toc115" playOrder="115">
+		<navLabel>
+			<text>のら息子</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml#kobo.384.1"/>
+	</navPoint>
+	<navPoint id="toc116" playOrder="116">
+		<navLabel>
+			<text>古城窟</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml#kobo.519.1"/>
+	</navPoint>
+	<navPoint id="toc117" playOrder="117">
+		<navLabel>
+			<text>兄弟再会</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml#kobo.643.1"/>
+	</navPoint>
+	<navPoint id="toc118" playOrder="118">
+		<navLabel>
+			<text>于吉仙人</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml#kobo.796.1"/>
+	</navPoint>
+	<navPoint id="toc119" playOrder="119">
+		<navLabel>
+			<text>孫権立つ</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml#kobo.943.1"/>
+	</navPoint>
+	<navPoint id="toc120" playOrder="120">
+		<navLabel>
+			<text>霹靂車</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml#kobo.1123.1"/>
+	</navPoint>
+	<navPoint id="toc121" playOrder="121">
+		<navLabel>
+			<text>溯巻く黄河</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml#kobo.1316.1"/>
+	</navPoint>
+	<navPoint id="toc122" playOrder="122">
+		<navLabel>
+			<text>十面埋伏</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml#kobo.1489.1"/>
+	</navPoint>
+	<navPoint id="toc123" playOrder="123">
+		<navLabel>
+			<text>泥魚</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml#kobo.1653.1"/>
+	</navPoint>
+	<navPoint id="toc124" playOrder="124">
+		<navLabel>
+			<text>自壊闘争</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml#kobo.1781.1"/>
+	</navPoint>
+	<navPoint id="toc125" playOrder="125">
+		<navLabel>
+			<text>邯鄲</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml#kobo.1877.1"/>
+	</navPoint>
+	<navPoint id="toc126" playOrder="126">
+		<navLabel>
+			<text>野に真人あり</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml#kobo.1974.1"/>
+	</navPoint>
+	<navPoint id="toc127" playOrder="127">
+		<navLabel>
+			<text>遼西・遼東</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml#kobo.2108.1"/>
+	</navPoint>
+	<navPoint id="toc128" playOrder="128">
+		<navLabel>
+			<text>食客</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml#kobo.2193.1"/>
+	</navPoint>
+	<navPoint id="toc129" playOrder="129">
+		<navLabel>
+			<text>檀渓を跳ぶ</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml#kobo.2316.1"/>
+	</navPoint>
+	<navPoint id="toc130" playOrder="130">
+		<navLabel>
+			<text>琴を弾く高士</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml#kobo.2431.1"/>
+	</navPoint>
+	<navPoint id="toc131" playOrder="131">
+		<navLabel>
+			<text>吟嘯浪士</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml#kobo.2558.1"/>
+	</navPoint>
+	<navPoint id="toc132" playOrder="132">
+		<navLabel>
+			<text>軍師の鞭</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml#kobo.2646.1"/>
+	</navPoint>
+	<navPoint id="toc133" playOrder="133">
+		<navLabel>
+			<text>徐庶とその母</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml#kobo.2738.1"/>
+	</navPoint>
+	<navPoint id="toc134" playOrder="134">
+		<navLabel>
+			<text>立つ鳥の声</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml#kobo.2854.1"/>
+	</navPoint>
+	<navPoint id="toc135" playOrder="135">
+		<navLabel>
+			<text>諸葛氏一家</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml#kobo.2980.1"/>
+	</navPoint>
+	<navPoint id="toc136" playOrder="136">
+		<navLabel>
+			<text>臥龍の岡</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml#kobo.3145.1"/>
+	</navPoint>
+	<navPoint id="toc137" playOrder="137">
+		<navLabel>
+			<text>孔明を訪う</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml#kobo.3251.1"/>
+	</navPoint>
+	<navPoint id="toc138" playOrder="138">
+		<navLabel>
+			<text>雪千丈</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml#kobo.3418.1"/>
+	</navPoint>
+	<navPoint id="toc139" playOrder="139">
+		<navLabel>
+			<text>立春大吉</text>
+		</navLabel>
+		<content src="xhtml/0006.xhtml#kobo.3643.1"/>
+	</navPoint>
+	<navPoint id="toc140" playOrder="140">
+		<navLabel>
+			<text>赤壁の巻</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml"/>
+	</navPoint>
+	<navPoint id="toc141" playOrder="141">
+		<navLabel>
+			<text>出廬</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.2.1"/>
+	</navPoint>
+	<navPoint id="toc142" playOrder="142">
+		<navLabel>
+			<text>呉の情熱</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.81.1"/>
+	</navPoint>
+	<navPoint id="toc143" playOrder="143">
+		<navLabel>
+			<text>鈴音</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.220.1"/>
+	</navPoint>
+	<navPoint id="toc144" playOrder="144">
+		<navLabel>
+			<text>蜂と世子</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.335.1"/>
+	</navPoint>
+	<navPoint id="toc145" playOrder="145">
+		<navLabel>
+			<text>臨戦第一課</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.502.1"/>
+	</navPoint>
+	<navPoint id="toc146" playOrder="146">
+		<navLabel>
+			<text>許都と荊州</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.701.1"/>
+	</navPoint>
+	<navPoint id="toc147" playOrder="147">
+		<navLabel>
+			<text>新野を捨てて</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.821.1"/>
+	</navPoint>
+	<navPoint id="toc148" playOrder="148">
+		<navLabel>
+			<text>亡流</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.945.1"/>
+	</navPoint>
+	<navPoint id="toc149" playOrder="149">
+		<navLabel>
+			<text>母子草</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.1096.1"/>
+	</navPoint>
+	<navPoint id="toc150" playOrder="150">
+		<navLabel>
+			<text>宝剣</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.1243.1"/>
+	</navPoint>
+	<navPoint id="toc151" playOrder="151">
+		<navLabel>
+			<text>長坂橋</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.1334.1"/>
+	</navPoint>
+	<navPoint id="toc152" playOrder="152">
+		<navLabel>
+			<text>一帆呉へ下る</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.1455.1"/>
+	</navPoint>
+	<navPoint id="toc153" playOrder="153">
+		<navLabel>
+			<text>舌戦</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.1571.1"/>
+	</navPoint>
+	<navPoint id="toc154" playOrder="154">
+		<navLabel>
+			<text>火中の栗</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.1687.1"/>
+	</navPoint>
+	<navPoint id="toc155" playOrder="155">
+		<navLabel>
+			<text>酔計二花</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.1853.1"/>
+	</navPoint>
+	<navPoint id="toc156" playOrder="156">
+		<navLabel>
+			<text>大号令</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.2036.1"/>
+	</navPoint>
+	<navPoint id="toc157" playOrder="157">
+		<navLabel>
+			<text>殺地の客</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.2168.1"/>
+	</navPoint>
+	<navPoint id="toc158" playOrder="158">
+		<navLabel>
+			<text>狂瀾</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.2291.1"/>
+	</navPoint>
+	<navPoint id="toc159" playOrder="159">
+		<navLabel>
+			<text>群英の会</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.2382.1"/>
+	</navPoint>
+	<navPoint id="toc160" playOrder="160">
+		<navLabel>
+			<text>陣中戯言なし</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.2534.1"/>
+	</navPoint>
+	<navPoint id="toc161" playOrder="161">
+		<navLabel>
+			<text>覆面の船団</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.2628.1"/>
+	</navPoint>
+	<navPoint id="toc162" playOrder="162">
+		<navLabel>
+			<text>風を呼ぶ杖</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.2709.1"/>
+	</navPoint>
+	<navPoint id="toc163" playOrder="163">
+		<navLabel>
+			<text>一竿翁</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.2830.1"/>
+	</navPoint>
+	<navPoint id="toc164" playOrder="164">
+		<navLabel>
+			<text>裏の裏</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.2917.1"/>
+	</navPoint>
+	<navPoint id="toc165" playOrder="165">
+		<navLabel>
+			<text>鳳雛・巣を出ず</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.2977.1"/>
+	</navPoint>
+	<navPoint id="toc166" playOrder="166">
+		<navLabel>
+			<text>竹冠の友</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.3127.1"/>
+	</navPoint>
+	<navPoint id="toc167" playOrder="167">
+		<navLabel>
+			<text>月烏賦</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.3177.1"/>
+	</navPoint>
+	<navPoint id="toc168" playOrder="168">
+		<navLabel>
+			<text>鉄鎖の陣</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.3238.1"/>
+	</navPoint>
+	<navPoint id="toc169" playOrder="169">
+		<navLabel>
+			<text>孔明・風を祈る</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.3333.1"/>
+	</navPoint>
+	<navPoint id="toc170" playOrder="170">
+		<navLabel>
+			<text>南風北春</text>
+		</navLabel>
+		<content src="xhtml/0007.xhtml#kobo.3474.1"/>
+	</navPoint>
+	<navPoint id="toc171" playOrder="171">
+		<navLabel>
+			<text>望蜀の巻</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml"/>
+	</navPoint>
+	<navPoint id="toc172" playOrder="172">
+		<navLabel>
+			<text>降参船</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.2.1"/>
+	</navPoint>
+	<navPoint id="toc173" playOrder="173">
+		<navLabel>
+			<text>赤壁の大襲撃</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.159.1"/>
+	</navPoint>
+	<navPoint id="toc174" playOrder="174">
+		<navLabel>
+			<text>山谷笑う</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.257.1"/>
+	</navPoint>
+	<navPoint id="toc175" playOrder="175">
+		<navLabel>
+			<text>功なき関羽</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.390.1"/>
+	</navPoint>
+	<navPoint id="toc176" playOrder="176">
+		<navLabel>
+			<text>一掴三城</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.532.1"/>
+	</navPoint>
+	<navPoint id="toc177" playOrder="177">
+		<navLabel>
+			<text>白羽扇</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.817.1"/>
+	</navPoint>
+	<navPoint id="toc178" playOrder="178">
+		<navLabel>
+			<text>黄忠の矢</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.1042.1"/>
+	</navPoint>
+	<navPoint id="toc179" playOrder="179">
+		<navLabel>
+			<text>針鼠</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.1168.1"/>
+	</navPoint>
+	<navPoint id="toc180" playOrder="180">
+		<navLabel>
+			<text>柳眉剣簪</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.1276.1"/>
+	</navPoint>
+	<navPoint id="toc181" playOrder="181">
+		<navLabel>
+			<text>鴛鴦陣</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.1399.1"/>
+	</navPoint>
+	<navPoint id="toc182" playOrder="182">
+		<navLabel>
+			<text>朝の月</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.1530.1"/>
+	</navPoint>
+	<navPoint id="toc183" playOrder="183">
+		<navLabel>
+			<text>凛々細腰の剣</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.1641.1"/>
+	</navPoint>
+	<navPoint id="toc184" playOrder="184">
+		<navLabel>
+			<text>周瑜・気死す</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.1747.1"/>
+	</navPoint>
+	<navPoint id="toc185" playOrder="185">
+		<navLabel>
+			<text>文武競春</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.1822.1"/>
+	</navPoint>
+	<navPoint id="toc186" playOrder="186">
+		<navLabel>
+			<text>荊州往来</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.1960.1"/>
+	</navPoint>
+	<navPoint id="toc187" playOrder="187">
+		<navLabel>
+			<text>鳳雛去る</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.2125.1"/>
+	</navPoint>
+	<navPoint id="toc188" playOrder="188">
+		<navLabel>
+			<text>酔県令</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.2246.1"/>
+	</navPoint>
+	<navPoint id="toc189" playOrder="189">
+		<navLabel>
+			<text>馬騰と一族</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.2330.1"/>
+	</navPoint>
+	<navPoint id="toc190" playOrder="190">
+		<navLabel>
+			<text>不倶戴天</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.2421.1"/>
+	</navPoint>
+	<navPoint id="toc191" playOrder="191">
+		<navLabel>
+			<text>渭水を挟んで</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.2585.1"/>
+	</navPoint>
+	<navPoint id="toc192" playOrder="192">
+		<navLabel>
+			<text>火水木金土</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.2777.1"/>
+	</navPoint>
+	<navPoint id="toc193" playOrder="193">
+		<navLabel>
+			<text>敵中作敵</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.2944.1"/>
+	</navPoint>
+	<navPoint id="toc194" playOrder="194">
+		<navLabel>
+			<text>兵学談義</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.3067.1"/>
+	</navPoint>
+	<navPoint id="toc195" playOrder="195">
+		<navLabel>
+			<text>蜀人・張松</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.3161.1"/>
+	</navPoint>
+	<navPoint id="toc196" playOrder="196">
+		<navLabel>
+			<text>孟徳新書</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.3260.1"/>
+	</navPoint>
+	<navPoint id="toc197" playOrder="197">
+		<navLabel>
+			<text>西蜀四十一州図</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.3324.1"/>
+	</navPoint>
+	<navPoint id="toc198" playOrder="198">
+		<navLabel>
+			<text>進軍</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.3446.1"/>
+	</navPoint>
+	<navPoint id="toc199" playOrder="199">
+		<navLabel>
+			<text>鴻門の会に非ず</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.3516.1"/>
+	</navPoint>
+	<navPoint id="toc200" playOrder="200">
+		<navLabel>
+			<text>珠</text>
+		</navLabel>
+		<content src="xhtml/0008.xhtml#kobo.3629.1"/>
+	</navPoint>
+	<navPoint id="toc201" playOrder="201">
+		<navLabel>
+			<text>図南の巻</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml"/>
+	</navPoint>
+	<navPoint id="toc202" playOrder="202">
+		<navLabel>
+			<text>日輪</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.2.1"/>
+	</navPoint>
+	<navPoint id="toc203" playOrder="203">
+		<navLabel>
+			<text>上・中・下</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.155.1"/>
+	</navPoint>
+	<navPoint id="toc204" playOrder="204">
+		<navLabel>
+			<text>酒中別人</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.222.1"/>
+	</navPoint>
+	<navPoint id="toc205" playOrder="205">
+		<navLabel>
+			<text>魏延と黄忠</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.312.1"/>
+	</navPoint>
+	<navPoint id="toc206" playOrder="206">
+		<navLabel>
+			<text>短髪壮士</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.482.1"/>
+	</navPoint>
+	<navPoint id="toc207" playOrder="207">
+		<navLabel>
+			<text>落鳳坡</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.565.1"/>
+	</navPoint>
+	<navPoint id="toc208" playOrder="208">
+		<navLabel>
+			<text>破軍星</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.674.1"/>
+	</navPoint>
+	<navPoint id="toc209" playOrder="209">
+		<navLabel>
+			<text>草を刈る</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.748.1"/>
+	</navPoint>
+	<navPoint id="toc210" playOrder="210">
+		<navLabel>
+			<text>金雁橋</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.828.1"/>
+	</navPoint>
+	<navPoint id="toc211" playOrder="211">
+		<navLabel>
+			<text>西涼ふたたび燃ゆ</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.1009.1"/>
+	</navPoint>
+	<navPoint id="toc212" playOrder="212">
+		<navLabel>
+			<text>馬超と張飛</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.1114.1"/>
+	</navPoint>
+	<navPoint id="toc213" playOrder="213">
+		<navLabel>
+			<text>成都陥落</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.1331.1"/>
+	</navPoint>
+	<navPoint id="toc214" playOrder="214">
+		<navLabel>
+			<text>臨江亭会談</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.1468.1"/>
+	</navPoint>
+	<navPoint id="toc215" playOrder="215">
+		<navLabel>
+			<text>冬葉啾々</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.1593.1"/>
+	</navPoint>
+	<navPoint id="toc216" playOrder="216">
+		<navLabel>
+			<text>漢中併呑</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.1692.1"/>
+	</navPoint>
+	<navPoint id="toc217" playOrder="217">
+		<navLabel>
+			<text>剣と戟と楯</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.1838.1"/>
+	</navPoint>
+	<navPoint id="toc218" playOrder="218">
+		<navLabel>
+			<text>遼来々</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.1898.1"/>
+	</navPoint>
+	<navPoint id="toc219" playOrder="219">
+		<navLabel>
+			<text>鵞毛の兵</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.1965.1"/>
+	</navPoint>
+	<navPoint id="toc220" playOrder="220">
+		<navLabel>
+			<text>休戦</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.2038.1"/>
+	</navPoint>
+	<navPoint id="toc221" playOrder="221">
+		<navLabel>
+			<text>柑子と牡丹</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.2101.1"/>
+	</navPoint>
+	<navPoint id="toc222" playOrder="222">
+		<navLabel>
+			<text>藤花の冠</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.2216.1"/>
+	</navPoint>
+	<navPoint id="toc223" playOrder="223">
+		<navLabel>
+			<text>神卜</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.2288.1"/>
+	</navPoint>
+	<navPoint id="toc224" playOrder="224">
+		<navLabel>
+			<text>正月十五夜</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.2391.1"/>
+	</navPoint>
+	<navPoint id="toc225" playOrder="225">
+		<navLabel>
+			<text>御林の火</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.2474.1"/>
+	</navPoint>
+	<navPoint id="toc226" playOrder="226">
+		<navLabel>
+			<text>陣前公用の美酒</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.2570.1"/>
+	</navPoint>
+	<navPoint id="toc227" playOrder="227">
+		<navLabel>
+			<text>敗将</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.2705.1"/>
+	</navPoint>
+	<navPoint id="toc228" playOrder="228">
+		<navLabel>
+			<text>老将の功</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.2790.1"/>
+	</navPoint>
+	<navPoint id="toc229" playOrder="229">
+		<navLabel>
+			<text>絶妙好辞</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.2936.1"/>
+	</navPoint>
+	<navPoint id="toc230" playOrder="230">
+		<navLabel>
+			<text>一股傷折</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.3026.1"/>
+	</navPoint>
+	<navPoint id="toc231" playOrder="231">
+		<navLabel>
+			<text>趙子龍</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.3112.1"/>
+	</navPoint>
+	<navPoint id="toc232" playOrder="232">
+		<navLabel>
+			<text>次男曹彰</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.3213.1"/>
+	</navPoint>
+	<navPoint id="toc233" playOrder="233">
+		<navLabel>
+			<text>鶏肋</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.3311.1"/>
+	</navPoint>
+	<navPoint id="toc234" playOrder="234">
+		<navLabel>
+			<text>漢中王に昇る</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.3437.1"/>
+	</navPoint>
+	<navPoint id="toc235" playOrder="235">
+		<navLabel>
+			<text>烽火台</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.3515.1"/>
+	</navPoint>
+	<navPoint id="toc236" playOrder="236">
+		<navLabel>
+			<text>生きて出る柩</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.3635.1"/>
+	</navPoint>
+	<navPoint id="toc237" playOrder="237">
+		<navLabel>
+			<text>関平</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.3713.1"/>
+	</navPoint>
+	<navPoint id="toc238" playOrder="238">
+		<navLabel>
+			<text>七軍魚鼈となる</text>
+		</navLabel>
+		<content src="xhtml/0009.xhtml#kobo.3804.1"/>
+	</navPoint>
+	<navPoint id="toc239" playOrder="239">
+		<navLabel>
+			<text>出師の巻</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml"/>
+	</navPoint>
+	<navPoint id="toc240" playOrder="240">
+		<navLabel>
+			<text>骨を削る</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.2.1"/>
+	</navPoint>
+	<navPoint id="toc241" playOrder="241">
+		<navLabel>
+			<text>建業会議</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.66.1"/>
+	</navPoint>
+	<navPoint id="toc242" playOrder="242">
+		<navLabel>
+			<text>呂蒙と陸遜</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.123.1"/>
+	</navPoint>
+	<navPoint id="toc243" playOrder="243">
+		<navLabel>
+			<text>笠</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.181.1"/>
+	</navPoint>
+	<navPoint id="toc244" playOrder="244">
+		<navLabel>
+			<text>荊州変貌</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.211.1"/>
+	</navPoint>
+	<navPoint id="toc245" playOrder="245">
+		<navLabel>
+			<text>鬢糸の雪</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.303.1"/>
+	</navPoint>
+	<navPoint id="toc246" playOrder="246">
+		<navLabel>
+			<text>月落つ麦城</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.370.1"/>
+	</navPoint>
+	<navPoint id="toc247" playOrder="247">
+		<navLabel>
+			<text>蜀山遠し</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.468.1"/>
+	</navPoint>
+	<navPoint id="toc248" playOrder="248">
+		<navLabel>
+			<text>草喰わぬ馬</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.585.1"/>
+	</navPoint>
+	<navPoint id="toc249" playOrder="249">
+		<navLabel>
+			<text>国葬</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.647.1"/>
+	</navPoint>
+	<navPoint id="toc250" playOrder="250">
+		<navLabel>
+			<text>成都鳴動</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.699.1"/>
+	</navPoint>
+	<navPoint id="toc251" playOrder="251">
+		<navLabel>
+			<text>梨の木</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.765.1"/>
+	</navPoint>
+	<navPoint id="toc252" playOrder="252">
+		<navLabel>
+			<text>曹操死す</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.825.1"/>
+	</navPoint>
+	<navPoint id="toc253" playOrder="253">
+		<navLabel>
+			<text>武祖</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.880.1"/>
+	</navPoint>
+	<navPoint id="toc254" playOrder="254">
+		<navLabel>
+			<text>七歩の詩</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.974.1"/>
+	</navPoint>
+	<navPoint id="toc255" playOrder="255">
+		<navLabel>
+			<text>私情を斬る</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.1038.1"/>
+	</navPoint>
+	<navPoint id="toc256" playOrder="256">
+		<navLabel>
+			<text>改元</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.1125.1"/>
+	</navPoint>
+	<navPoint id="toc257" playOrder="257">
+		<navLabel>
+			<text>蜀また倣う</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.1238.1"/>
+	</navPoint>
+	<navPoint id="toc258" playOrder="258">
+		<navLabel>
+			<text>桃園終春</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.1324.1"/>
+	</navPoint>
+	<navPoint id="toc259" playOrder="259">
+		<navLabel>
+			<text>雁のみだれ</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.1389.1"/>
+	</navPoint>
+	<navPoint id="toc260" playOrder="260">
+		<navLabel>
+			<text>呉の外交</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.1501.1"/>
+	</navPoint>
+	<navPoint id="toc261" playOrder="261">
+		<navLabel>
+			<text>この一戦</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.1617.1"/>
+	</navPoint>
+	<navPoint id="toc262" playOrder="262">
+		<navLabel>
+			<text>冬将軍</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.1682.1"/>
+	</navPoint>
+	<navPoint id="toc263" playOrder="263">
+		<navLabel>
+			<text>尉霊大望</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.1747.1"/>
+	</navPoint>
+	<navPoint id="toc264" playOrder="264">
+		<navLabel>
+			<text>一書生</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.1806.1"/>
+	</navPoint>
+	<navPoint id="toc265" playOrder="265">
+		<navLabel>
+			<text>白帝城</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.1894.1"/>
+	</navPoint>
+	<navPoint id="toc266" playOrder="266">
+		<navLabel>
+			<text>石兵八陣</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.2057.1"/>
+	</navPoint>
+	<navPoint id="toc267" playOrder="267">
+		<navLabel>
+			<text>孔明を呼ぶ</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.2128.1"/>
+	</navPoint>
+	<navPoint id="toc268" playOrder="268">
+		<navLabel>
+			<text>遺孤を託す</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.2189.1"/>
+	</navPoint>
+	<navPoint id="toc269" playOrder="269">
+		<navLabel>
+			<text>魚紋</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.2260.1"/>
+	</navPoint>
+	<navPoint id="toc270" playOrder="270">
+		<navLabel>
+			<text>蜀呉修交</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.2382.1"/>
+	</navPoint>
+	<navPoint id="toc271" playOrder="271">
+		<navLabel>
+			<text>建艦総力</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.2468.1"/>
+	</navPoint>
+	<navPoint id="toc272" playOrder="272">
+		<navLabel>
+			<text>淮河の水上戦</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.2529.1"/>
+	</navPoint>
+	<navPoint id="toc273" playOrder="273">
+		<navLabel>
+			<text>南蛮行</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.2590.1"/>
+	</navPoint>
+	<navPoint id="toc274" playOrder="274">
+		<navLabel>
+			<text>南方指掌図</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.2707.1"/>
+	</navPoint>
+	<navPoint id="toc275" playOrder="275">
+		<navLabel>
+			<text>孟獲</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.2802.1"/>
+	</navPoint>
+	<navPoint id="toc276" playOrder="276">
+		<navLabel>
+			<text>輸血路</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.2858.1"/>
+	</navPoint>
+	<navPoint id="toc277" playOrder="277">
+		<navLabel>
+			<text>心縛</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.2918.1"/>
+	</navPoint>
+	<navPoint id="toc278" playOrder="278">
+		<navLabel>
+			<text>孔明・三擒三放の事</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.2987.1"/>
+	</navPoint>
+	<navPoint id="toc279" playOrder="279">
+		<navLabel>
+			<text>王風羽扇</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.3098.1"/>
+	</navPoint>
+	<navPoint id="toc280" playOrder="280">
+		<navLabel>
+			<text>毒泉</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.3190.1"/>
+	</navPoint>
+	<navPoint id="toc281" playOrder="281">
+		<navLabel>
+			<text>蛮娘の踊り</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.3249.1"/>
+	</navPoint>
+	<navPoint id="toc282" playOrder="282">
+		<navLabel>
+			<text>女傑</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.3343.1"/>
+	</navPoint>
+	<navPoint id="toc283" playOrder="283">
+		<navLabel>
+			<text>歩く木獣</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.3431.1"/>
+	</navPoint>
+	<navPoint id="toc284" playOrder="284">
+		<navLabel>
+			<text>藤甲蛮</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.3490.1"/>
+	</navPoint>
+	<navPoint id="toc285" playOrder="285">
+		<navLabel>
+			<text>戦車と地雷</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.3557.1"/>
+	</navPoint>
+	<navPoint id="toc286" playOrder="286">
+		<navLabel>
+			<text>王風万里</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.3621.1"/>
+	</navPoint>
+	<navPoint id="toc287" playOrder="287">
+		<navLabel>
+			<text>鹿と魏太子</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.3683.1"/>
+	</navPoint>
+	<navPoint id="toc288" playOrder="288">
+		<navLabel>
+			<text>出師の表</text>
+		</navLabel>
+		<content src="xhtml/0010.xhtml#kobo.3754.1"/>
+	</navPoint>
+	<navPoint id="toc289" playOrder="289">
+		<navLabel>
+			<text>五丈原の巻</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml"/>
+	</navPoint>
+	<navPoint id="toc290" playOrder="290">
+		<navLabel>
+			<text>中原を指して</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.2.1"/>
+	</navPoint>
+	<navPoint id="toc291" playOrder="291">
+		<navLabel>
+			<text>美丈夫姜維</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.206.1"/>
+	</navPoint>
+	<navPoint id="toc292" playOrder="292">
+		<navLabel>
+			<text>祁山の野</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.394.1"/>
+	</navPoint>
+	<navPoint id="toc293" playOrder="293">
+		<navLabel>
+			<text>西部第二戦線</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.485.1"/>
+	</navPoint>
+	<navPoint id="toc294" playOrder="294">
+		<navLabel>
+			<text>鶏家全慶</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.585.1"/>
+	</navPoint>
+	<navPoint id="toc295" playOrder="295">
+		<navLabel>
+			<text>洛陽に生色還る</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.680.1"/>
+	</navPoint>
+	<navPoint id="toc296" playOrder="296">
+		<navLabel>
+			<text>高楼弾琴</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.750.1"/>
+	</navPoint>
+	<navPoint id="toc297" playOrder="297">
+		<navLabel>
+			<text>馬謖を斬る</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.1023.1"/>
+	</navPoint>
+	<navPoint id="toc298" playOrder="298">
+		<navLabel>
+			<text>髪を捧ぐ</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.1143.1"/>
+	</navPoint>
+	<navPoint id="toc299" playOrder="299">
+		<navLabel>
+			<text>二次出師表</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.1241.1"/>
+	</navPoint>
+	<navPoint id="toc300" playOrder="300">
+		<navLabel>
+			<text>二度祁山に出づ</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.1380.1"/>
+	</navPoint>
+	<navPoint id="toc301" playOrder="301">
+		<navLabel>
+			<text>食</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.1513.1"/>
+	</navPoint>
+	<navPoint id="toc302" playOrder="302">
+		<navLabel>
+			<text>総兵之印</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.1673.1"/>
+	</navPoint>
+	<navPoint id="toc303" playOrder="303">
+		<navLabel>
+			<text>司馬仲達計らる</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.1769.1"/>
+	</navPoint>
+	<navPoint id="toc304" playOrder="304">
+		<navLabel>
+			<text>天血の如し</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.1821.1"/>
+	</navPoint>
+	<navPoint id="toc305" playOrder="305">
+		<navLabel>
+			<text>長雨</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.1927.1"/>
+	</navPoint>
+	<navPoint id="toc306" playOrder="306">
+		<navLabel>
+			<text>賭</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.1995.1"/>
+	</navPoint>
+	<navPoint id="toc307" playOrder="307">
+		<navLabel>
+			<text>八陣展開</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.2122.1"/>
+	</navPoint>
+	<navPoint id="toc308" playOrder="308">
+		<navLabel>
+			<text>竈</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.2187.1"/>
+	</navPoint>
+	<navPoint id="toc309" playOrder="309">
+		<navLabel>
+			<text>麦青む</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.2237.1"/>
+	</navPoint>
+	<navPoint id="toc310" playOrder="310">
+		<navLabel>
+			<text>北斗七星旗</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.2295.1"/>
+	</navPoint>
+	<navPoint id="toc311" playOrder="311">
+		<navLabel>
+			<text>木門道</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.2378.1"/>
+	</navPoint>
+	<navPoint id="toc312" playOrder="312">
+		<navLabel>
+			<text>具眼の士</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.2482.1"/>
+	</navPoint>
+	<navPoint id="toc313" playOrder="313">
+		<navLabel>
+			<text>木牛流馬</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.2597.1"/>
+	</navPoint>
+	<navPoint id="toc314" playOrder="314">
+		<navLabel>
+			<text>ネジ</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.2695.1"/>
+	</navPoint>
+	<navPoint id="toc315" playOrder="315">
+		<navLabel>
+			<text>豆を蒔く</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.2787.1"/>
+	</navPoint>
+	<navPoint id="toc316" playOrder="316">
+		<navLabel>
+			<text>七盞燈</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.2842.1"/>
+	</navPoint>
+	<navPoint id="toc317" playOrder="317">
+		<navLabel>
+			<text>水火</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.2926.1"/>
+	</navPoint>
+	<navPoint id="toc318" playOrder="318">
+		<navLabel>
+			<text>女衣巾幗</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.3038.1"/>
+	</navPoint>
+	<navPoint id="toc319" playOrder="319">
+		<navLabel>
+			<text>銀河の祷り</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.3166.1"/>
+	</navPoint>
+	<navPoint id="toc320" playOrder="320">
+		<navLabel>
+			<text>秋風五丈原</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.3258.1"/>
+	</navPoint>
+	<navPoint id="toc321" playOrder="321">
+		<navLabel>
+			<text>死せる孔明、生ける仲達を走らす</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.3382.1"/>
+	</navPoint>
+	<navPoint id="toc322" playOrder="322">
+		<navLabel>
+			<text>松に古今の色無し</text>
+		</navLabel>
+		<content src="xhtml/0011.xhtml#kobo.3521.1"/>
+	</navPoint>
+	<navPoint id="toc323" playOrder="323">
+		<navLabel>
+			<text>篇外余録</text>
+		</navLabel>
+		<content src="xhtml/0012.xhtml"/>
+	</navPoint>
+	<navPoint id="toc324" playOrder="324">
+		<navLabel>
+			<text>諸葛菜</text>
+		</navLabel>
+		<content src="xhtml/0012.xhtml#kobo.2.1"/>
+	</navPoint>
+	<navPoint id="toc325" playOrder="325">
+		<navLabel>
+			<text>後蜀三十年</text>
+		</navLabel>
+		<content src="xhtml/0012.xhtml#kobo.171.1"/>
+	</navPoint>
+	<navPoint id="toc326" playOrder="326">
+		<navLabel>
+			<text>魏から─晋まで</text>
+		</navLabel>
+		<content src="xhtml/0012.xhtml#kobo.353.1"/>
+	</navPoint>
+</navMap>
+</ncx>
