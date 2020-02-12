@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="ja">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
     <meta charset="utf-8">
@@ -6,151 +6,188 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!--OGP -->
     <meta property="og:title" content="急急如律令のメインページ" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://kyukyunyorituryo.github.io/" />
-<meta property="og:image" content="https://kyukyunyorituryo.github.io/FixedEpub3JS/twittercard.jpg" />
-<meta property="og:site_name" content=">急急如律令のメインページ" />
-<meta property="og:description" content="本やソフトウェアなどの配布物" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://kyukyunyorituryo.github.io/" />
+    <meta property="og:image" content="https://kyukyunyorituryo.github.io/FixedEpub3JS/twittercard.jpg" />
+    <meta property="og:site_name" content=">急急如律令のメインページ" />
+    <meta property="og:description" content="本やソフトウェアなどの配布物" />
     <!--Twitterカード -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@99nyorituryo">
-<meta name="twitter:creator" content="@99nyorituryo">
-<meta name="twitter:title" content="急急如律令のメインページ">
-<meta name="twitter:description" content="本やソフトウェアなどの配布物">
-<meta name="twitter:image:src" content="https://kyukyunyorituryo.github.io/FixedEpub3JS/twittercard.jpg">
-<link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon" /> 
-<link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
+    <meta name="twitter:creator" content="@99nyorituryo">
+    <meta name="twitter:title" content="急急如律令のメインページ">
+    <meta name="twitter:description" content="本やソフトウェアなどの配布物">
+    <meta name="twitter:image:src" content="https://kyukyunyorituryo.github.io/FixedEpub3JS/twittercard.jpg">
+    <link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
+    <link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
     <title>急急如律令のメインページ</title>
     <!-- BootstrapのCSS読み込み -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <!-- Google Analytics -->
     <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
-  ga('create', 'UA-93342586-1', 'auto');
-  ga('send', 'pageview');
+        ga('create', 'UA-93342586-1', 'auto');
+        ga('send', 'pageview');
 
-</script>
+    </script>
     <!-- jQuery読み込み -->
-<script defer 
-  src="https://code.jquery.com/jquery-1.12.4.min.js"
-  integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
-  crossorigin="anonymous"></script>
+    <script defer
+            src="https://code.jquery.com/jquery-1.12.4.min.js"
+            integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
+            crossorigin="anonymous"></script>
     <!-- BootstrapのJS読み込み -->
-<script defer src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
- <!-- 追加した部分 -->
-       <script defer type="text/javascript" src="js/share.js"></script>
-
+    <script defer src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <!-- 追加した部分 -->
+    <script defer type="text/javascript" src="js/share.js"></script>
+    <style>
+        .row-eq-height {
+            display: flex;
+            flex-wrap: wrap;
+        }
+    </style>
 </head>
 <body>
 
-<header>
-  <nav class="navbar navbar-default">
-	<div class="container-fluid ">
-		<div class="navbar-header">
-			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbarEexample">
-				<span class="sr-only">Toggle navigation</span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</button>
-			<a class="navbar-brand" href="https://kyukyunyorituryo.github.io/">Topページ</a>
-		</div>
-		
-		<div class="collapse navbar-collapse" id="navbarEexample">
-			<ul class="nav navbar-nav">
-				<li ><a href="text.html">作ったもの</a></li>
-				<li><a href="http://99nyorituryo.hatenablog.com/">ブログ</a></li>
-				<li ><a href="https://www.amazon.co.jp/-/e/B07Q2TZFCN">キンドル著者ページ</a></li>
-				<li><a href="https://github.com/kyukyunyorituryo/">GitHub</a></li>
-			</ul>
-		</div>
-	</div>
-</nav>
-</header>
-<div class=" col-sm-2"></div>
-      <div id="bg"class="container bg-info col-sm-7">
+    <header class="container-fluid bHead">
+        <nav class="navbar navbar-default">
+            <div class="container-fluid ">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbarEexample">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="https://kyukyunyorituryo.github.io/">Topページ</a>
+                </div>
 
+                <div class="collapse navbar-collapse" id="navbarEexample">
+                    <ul class="nav navbar-nav">
+                        <li><a href="text.html">作ったもの</a></li>
+                        <li><a href="http://99nyorituryo.hatenablog.com/">ブログ</a></li>
+                        <li><a href="https://www.amazon.co.jp/-/e/B07Q2TZFCN">キンドル著者ページ</a></li>
+                        <li><a href="https://github.com/kyukyunyorituryo/">GitHub</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <hr>
+    <div class=" col-sm-2"></div>
+    <div id="bg" class="container col-sm-7">
+        <div class="container-fluid bBody bg-info">
 
-      <h2>SNSでシェア</h2>
-          <!-- snsボタン -->
-<div>
-  <ul  class="list-group list-inline">
-    <li>
-      <div class="sns_icon facebook_back"><a href="" target="_blank" title="Facebookでシェア"><img src="images/FB-f-Logo__blue_100.png" alt="facebook" width="50" height="50"></a></div>
-    </li>
-    <li>
-      <div class="sns_icon  twitter_back"><a href="" target="_blank" title="Twitterでシェア"><img src="images/Twitter_Social.svg" alt="twitter" width="50" height="50"></a></div>
-    </li>
-    <li>
-      <div class="sns_icon  hatena_back"><a href="" target="_blank" title="はてなブックマークに登録"><img src="images/hatenabookmark-logomark.svg" alt="はてなブックマーク" width="50" height="50"></a></div>
-    </li>
-    <li>
-      <div class="sns_icon line_back"><a href="" target="_blank" title="LINEに送る"><img src="images/line-share.png" alt="LINE" width="50" height="50"></a></div>
-    </li>
-  </ul>
-</div>
-          <!-- snsボタン終了 -->
+            <h2 class="page-header">SNSでシェア</h2>
+            <!-- snsボタン -->
+            <div class="container ">
+                <ul class="list-group list-inline">
+                    <li>
+                        <div class="sns_icon facebook_back"><a href="" target="_blank" title="Facebookでシェア"><img src="images/FB-f-Logo__blue_100.png" alt="facebook" width="50" height="50"></a></div>
+                    </li>
+                    <li>
+                        <div class="sns_icon  twitter_back"><a href="" target="_blank" title="Twitterでシェア"><img src="images/Twitter_Social.svg" alt="twitter" width="50" height="50"></a></div>
+                    </li>
+                    <li>
+                        <div class="sns_icon  hatena_back"><a href="" target="_blank" title="はてなブックマークに登録"><img src="images/hatenabookmark-logomark.svg" alt="はてなブックマーク" width="50" height="50"></a></div>
+                    </li>
+                    <li>
+                        <div class="sns_icon line_back"><a href="" target="_blank" title="LINEに送る"><img src="images/line-share.png" alt="LINE" width="50" height="50"></a></div>
+                    </li>
+                </ul>
+            </div>
+            <!-- snsボタン終了 -->
+        </div>
+            <hr>
+            <h2 class="page-header">最近の活動</h2>
+            <div class="row row-eq-height  bg-info">
+                <div class="col-sm-6 col-md-4">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <a href="https://kyukyunyorituryo.github.io/FixedEpub3JS/">
+                                <h3 class="panel-title"><span class="glyphicon glyphicon-link" aria-hidden="true"></span>FixedEpub3JS<br><small>リンク</small></h3>
+                            </a>
+                        </div>
+                        <div class="panel-body">
+                            漫画のEPUB３作成サイト
+                            kobo、bookwalker、Kindle、iBooks向けの漫画のEPUB作成サイト。画像を追加していくだけで漫画のEPUBが作れる。
+                        </div>
+                        <div class="panel-footer">
+                            <a href="https://kyukyunyorituryo.github.io/FixedEpub3JS/about.html">
+                                <h3 class="panel-title"><span class="glyphicon glyphicon-link" aria-hidden="true"></span>説明<br><small>リンク</small></h3>
+                            </a>
+                        </div>
+                    </div>
+                </div>
 
-<h2>最近の活動</h2>
-<divclass="col-sm-6 col-md-4">
-<div class="panel panel-default">
-	<div class="panel-heading">
-		<a href="https://kyukyunyorituryo.github.io/FixedEpub3JS/">
-			<h3 class="panel-title"><span class="glyphicon glyphicon-link" aria-hidden="true"></span>FixedEpub3JS<br><small>リンク</small></h3>
-		</a>
-	</div>
-	<div class="panel-body">
-		漫画のEPUB３作成サイト
-		kobo、bookwalker、Kindle、iBooks向けの漫画のEPUB作成サイト。画像を追加していくだけで漫画のEPUBが作れる。
-	</div>
-	<div class="panel-footer">
-		<a href="https://kyukyunyorituryo.github.io/FixedEpub3JS/about.html">
-			<h3 class="panel-title"><span class="glyphicon glyphicon-link" aria-hidden="true"></span>説明<br><small>リンク</small></h3>
-		</a>
-	</div>
-</div>
-<div class="panel panel-default">
-	<div class="panel-heading">
-		<a href="https://kyukyunyorituryo.github.io/narouconv/">
-			<h3 class="panel-title"><span class="glyphicon glyphicon-link" aria-hidden="true"></span>なろうコンバーター<br><small>リンク</small></h3>
-		</a>
-	</div>
-	<div class="panel-body">
-		小説家になろう、カクヨム、Pixiv、青空文庫、でんでんコンバーターの相互変換ツール
-	</div>
-	<div class="panel-footer">
-		<a href="https://github.com/kyukyunyorituryo/narouconv">
-			<h3 class="panel-title"><span class="glyphicon glyphicon-link" aria-hidden="true"></span>説明<br><small>リンク</small></h3>
-		</a>
-	</div>
-</div>
-<div class="panel panel-default">
-	<div class="panel-heading">
-		<a href="https://kyukyunyorituryo.github.io/bookshelf/">
-			<h3 class="panel-title"><span class="glyphicon glyphicon-link" aria-hidden="true"></span>青空文庫 EPUB mobi置き場<br><small>リンク</small></h3>
-		</a>
-	</div>
-	<div class="panel-body">
-		青空文庫やその他自作EPUBを電子書籍端末で読みやすく置いている。
-	</div>
-	<div class="panel-footer">
+                <div class="col-sm-6 col-md-4">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <a href="https://kyukyunyorituryo.github.io/narouconv/">
+                                <h3 class="panel-title"><span class="glyphicon glyphicon-link" aria-hidden="true"></span>なろうコンバーター<br><small>リンク</small></h3>
+                            </a>
+                        </div>
+                        <div class="panel-body">
+                            小説家になろう、カクヨム、Pixiv、青空文庫、でんでんコンバーターの相互変換ツール
+                        </div>
+                        <div class="panel-footer">
+                            <a href="https://github.com/kyukyunyorituryo/narouconv">
+                                <h3 class="panel-title"><span class="glyphicon glyphicon-link" aria-hidden="true"></span>説明<br><small>リンク</small></h3>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <a href="https://w.atwiki.jp/hmdev/">
+                                <h3 class="panel-title"><span class="glyphicon glyphicon-link" aria-hidden="true"></span>AozoraEpub3の修正版<br><small>リンク</small></h3>
+                            </a>
+                        </div>
+                        <div class="panel-body">
+                            AozoraEpub3の修正版の説明
+                            元々のAozoraEpub3ではEPUBチェックで弾かれて個人出版に使えない。また、ビュワーでの表示エラーが出る場合もある。そういったエラーの修正版を公開している。
+                        </div>
+                        <div class="panel-footer">
+                            <a href="https://github.com/kyukyunyorituryo/AozoraEpub3/releases">
+                                <h3 class="panel-title"><span class="glyphicon glyphicon-link" aria-hidden="true"></span>ダウンロード<br><small>リンク</small></h3>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <a href="https://kyukyunyorituryo.github.io/bookshelf/">
+                                <h3 class="panel-title"><span class="glyphicon glyphicon-link" aria-hidden="true"></span>青空文庫 EPUB mobi置き場<br><small>リンク</small></h3>
+                            </a>
+                        </div>
+                        <div class="panel-body">
+                            青空文庫やその他自作EPUBを電子書籍端末で読みやすく置いている。
+                        </div>
+                        <div class="panel-footer">
 
-			<h3 class="panel-title"><span class="glyphicon glyphicon-link" aria-hidden="true"></span>説明<br><small>リンク</small></h3>
+                            <h3 class="panel-title"><span class="glyphicon glyphicon-link" aria-hidden="true"></span>説明<br><small>リンク</small></h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
-	</div>
-</div>
+        <hr>
+        <div class="container-fluid bBody  bg-info">
+            <h2 class="page-header">最近出した著書</h2>
+            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=99twitter-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B07QMFL5DH&linkId=0c0a9ba44ba365dad70d3a703181586f&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+            </iframe>
+            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=99twitter-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B07BT9QNH3&linkId=8c394ebccd151099e3db0bf2ee10c50b&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+            </iframe>
+            <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=99twitter-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B01KOV055E&linkId=6a0a383b1c3c6cc38486fa4dc04512b0&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+            </iframe>
+        </div>
+    </div>
 
-<h2>最近出した著書</h2>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=99twitter-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B07QMFL5DH&linkId=0c0a9ba44ba365dad70d3a703181586f&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
-    </iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=99twitter-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B07BT9QNH3&linkId=8c394ebccd151099e3db0bf2ee10c50b&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
-    </iframe>
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=99twitter-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B01KOV055E&linkId=6a0a383b1c3c6cc38486fa4dc04512b0&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
-    </iframe>
-</div>
-</div>
 </body>
