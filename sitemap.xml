@@ -88,4 +88,8 @@
   <loc>https://kyukyunyorituryo.github.io/FixedEpub3JS/en/about_en.html</loc>
   <priority>0.6</priority>
 </url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html</loc>
+  <priority>0.6</priority>
+</url>
 </urlset>
