@@ -5,91 +5,858 @@
 <url>
   <loc>https://kyukyunyorituryo.github.io/</loc>
   <priority>1.0</priority>
-  <lastmod>2019-11-19T20:52:46+09:00</lastmod>
+  <lastmod>2020-05-26T22:05:12+09:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://kyukyunyorituryo.github.io/index.html</loc>
+  <loc>https://kyukyunyorituryo.github.io/text.html</loc>
   <priority>0.8</priority>
-  <lastmod>2019-11-19T20:52:46+09:00</lastmod>
+  <lastmod>2020-05-26T22:05:12+09:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://kyukyunyorituryo.github.io/FixedEpub3JS/</loc>
   <priority>0.8</priority>
-  <lastmod>2020-01-05T20:06:33+09:00</lastmod>
+  <lastmod>2020-04-01T16:40:18+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/FixedEpub3JS/about.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2020-04-01T16:40:18+09:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://kyukyunyorituryo.github.io/narouconv/</loc>
   <priority>0.8</priority>
   <lastmod>2019-03-14T23:01:18+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/</loc>
+  <priority>0.8</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://kyukyunyorituryo.github.io/bookshelf/</loc>
   <priority>0.8</priority>
   <lastmod>2016-09-04T00:35:03+09:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://kyukyunyorituryo.github.io/blank.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2019-11-19T20:52:46+09:00</lastmod>
+  <loc>https://kyukyunyorituryo.github.io/index.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2020-05-26T22:05:12+09:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://kyukyunyorituryo.github.io/sitemap.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2019-11-19T20:52:46+09:00</lastmod>
+  <priority>0.7</priority>
+  <lastmod>2020-05-26T22:05:12+09:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://kyukyunyorituryo.github.io/gallery.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2019-11-19T20:52:46+09:00</lastmod>
-</url>
-<url>
-  <loc>https://kyukyunyorituryo.github.io/text.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2019-11-19T20:52:46+09:00</lastmod>
+  <priority>0.7</priority>
+  <lastmod>2020-05-26T22:05:12+09:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://kyukyunyorituryo.github.io/link.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2019-11-19T20:52:46+09:00</lastmod>
+  <priority>0.7</priority>
+  <lastmod>2020-05-26T22:05:12+09:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://kyukyunyorituryo.github.io/contact.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2019-11-19T20:52:46+09:00</lastmod>
+  <priority>0.7</priority>
+  <lastmod>2020-05-26T22:05:12+09:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://kyukyunyorituryo.github.io/FixedEpub3JS/about.html</loc>
+  <loc>https://kyukyunyorituryo.github.io/blank.html</loc>
   <priority>0.7</priority>
-  <lastmod>2020-01-05T20:06:33+09:00</lastmod>
+  <lastmod>2020-05-26T22:05:12+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/FixedEpub3JS/en/</loc>
+  <priority>0.7</priority>
+  <lastmod>2020-04-01T16:40:18+09:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://kyukyunyorituryo.github.io/FixedEpub3JS/Bibi/bibi/index.html</loc>
   <priority>0.7</priority>
-  <lastmod>2020-01-05T20:06:33+09:00</lastmod>
+  <lastmod>2020-04-01T16:40:18+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/FixedEpub3JS/index.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2020-04-01T16:40:18+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/list.html</loc>
+  <priority>0.7</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://kyukyunyorituryo.github.io/bookshelf/S%20ADVENTURES%20UNDER%20GROUND.mobi</loc>
   <priority>0.7</priority>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://kyukyunyorituryo.github.io/txt.html</loc>
-  <priority>0.7</priority>
-</url>
-<url>
-  <loc>https://kyukyunyorituryo.github.io/FixedEpub3JS/index.html</loc>
   <priority>0.6</priority>
-  <lastmod>2020-01-05T20:06:33+09:00</lastmod>
-</url>
-<url>
-  <loc>https://kyukyunyorituryo.github.io/FixedEpub3JS/en/index.html</loc>
-  <priority>0.6</priority>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://kyukyunyorituryo.github.io/FixedEpub3JS/en/about_en.html</loc>
   <priority>0.6</priority>
+  <lastmod>2020-04-01T16:40:18+09:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html</loc>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200301</loc>
   <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
 </url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200302</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200303</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200304</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200305</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200306</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200307</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200308</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200309</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200310</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200311</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200312</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200313</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200314</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200315</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200316</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200317</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200318</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200319</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200320</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200321</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200322</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200323</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200324</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200325</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200326</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200327</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200328</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200329</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200330</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200331</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200401</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200402</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200403</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200404</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200405</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200406</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200407</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200408</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200409</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200410</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200411</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200412</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200413</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200414</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200415</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200416</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200417</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200418</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200419</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200420</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200421</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200422</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200423</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200424</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200425</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200426</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200427</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200428</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200429</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200430</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200501</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200502</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200503</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200504</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200505</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200506</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200507</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200508</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200509</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200510</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200511</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200512</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200513</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200514</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200515</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200516</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200517</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200518</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200519</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200520</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200521</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200522</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200523</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200524</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200525</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200526</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200527</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200528</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200529</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200530</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200531</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200601</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200602</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200603</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200604</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200605</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200606</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200607</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200608</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200609</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200610</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200611</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200612</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200613</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200614</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200615</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200616</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200617</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200618</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200619</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200620</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200621</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200622</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200623</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200624</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200625</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200626</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200627</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200628</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200629</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_pub/index.html?day=20200630</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-05-21T22:48:58+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/FixedEpub3JS/en/index.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-04-01T16:40:18+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+
 </urlset>
