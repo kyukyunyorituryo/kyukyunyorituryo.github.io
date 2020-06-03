@@ -5,13 +5,13 @@
 <url>
   <loc>https://kyukyunyorituryo.github.io/</loc>
   <priority>1.0</priority>
-  <lastmod>2020-05-30T13:50:32+09:00</lastmod>
+  <lastmod>2020-06-03T23:05:20+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kyukyunyorituryo.github.io/text.html</loc>
   <priority>0.8</priority>
-  <lastmod>2020-05-30T13:50:32+09:00</lastmod>
+  <lastmod>2020-06-03T23:05:20+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
@@ -41,7 +41,7 @@
 <url>
   <loc>https://kyukyunyorituryo.github.io/distribution.html</loc>
   <priority>0.8</priority>
-  <lastmod>2020-05-30T13:50:32+09:00</lastmod>
+  <lastmod>2020-06-03T23:05:20+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
@@ -53,37 +53,37 @@
 <url>
   <loc>https://kyukyunyorituryo.github.io/index.html</loc>
   <priority>0.7</priority>
-  <lastmod>2020-05-30T13:50:32+09:00</lastmod>
+  <lastmod>2020-06-03T23:05:20+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kyukyunyorituryo.github.io/sitemap.html</loc>
   <priority>0.7</priority>
-  <lastmod>2020-05-30T13:50:32+09:00</lastmod>
+  <lastmod>2020-06-03T23:05:20+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kyukyunyorituryo.github.io/gallery.html</loc>
   <priority>0.7</priority>
-  <lastmod>2020-05-30T13:50:32+09:00</lastmod>
+  <lastmod>2020-06-03T23:05:20+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kyukyunyorituryo.github.io/link.html</loc>
   <priority>0.7</priority>
-  <lastmod>2020-05-30T13:50:32+09:00</lastmod>
+  <lastmod>2020-06-03T23:05:20+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kyukyunyorituryo.github.io/contact.html</loc>
   <priority>0.7</priority>
-  <lastmod>2020-05-30T13:50:32+09:00</lastmod>
+  <lastmod>2020-06-03T23:05:20+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://kyukyunyorituryo.github.io/blank.html</loc>
   <priority>0.7</priority>
-  <lastmod>2020-05-30T13:50:32+09:00</lastmod>
+  <lastmod>2020-06-03T23:05:20+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
@@ -107,7 +107,7 @@
 <url>
   <loc>https://kyukyunyorituryo.github.io/new_epub/</loc>
   <priority>0.7</priority>
-  <lastmod>2020-06-03T23:02:28+09:00</lastmod>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
@@ -130,6 +130,12 @@
   <loc>https://kyukyunyorituryo.github.io/FixedEpub3JS/en/about_en.html</loc>
   <priority>0.6</priority>
   <lastmod>2020-04-01T16:40:18+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/list.html</loc>
+  <priority>0.6</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
@@ -1323,6 +1329,538 @@
   <loc>https://kyukyunyorituryo.github.io/FixedEpub3JS/en/index.html</loc>
   <priority>0.5</priority>
   <lastmod>2020-04-01T16:40:18+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200501.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200502.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200503.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200504.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200505.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200506.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200507.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200508.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200509.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200510.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200511.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200512.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200513.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200514.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200515.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200516.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200517.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200518.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200519.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200520.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200521.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200522.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200523.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200524.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200525.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200526.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200527.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200528.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200529.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200530.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200531.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200601.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200602.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200603.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200604.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200605.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200606.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200607.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200608.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200609.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200610.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200611.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200612.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200613.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/202006014.html</loc>
+  <priority>0.5</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200615.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200616.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200617.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200618.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200619.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200620.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/202006021.html</loc>
+  <priority>0.5</priority>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200622.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200623.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200624.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200625.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200626.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200627.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200628.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200629.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200630.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200701.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200702.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200703.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200704.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200705.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200706.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200707.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200708.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200709.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200710.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200711.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200712.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200713.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200714.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200715.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200716.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200717.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200718.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200720.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200722.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200723.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200724.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200725.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200727.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200728.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200729.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200730.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://kyukyunyorituryo.github.io/new_epub/html/20200731.html</loc>
+  <priority>0.5</priority>
+  <lastmod>2020-06-04T00:54:14+09:00</lastmod>
   <changefreq>daily</changefreq>
 </url>
 <url>
