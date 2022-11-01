@@ -80,7 +80,7 @@
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/kindle_sale/</loc>
-    <lastmod>2022-10-31</lastmod>
+    <lastmod>2022-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -469,6 +469,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20221110s27765.html</loc>
+    <lastmod>2022-10-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20221110s27791.html</loc>
     <lastmod>2022-10-28</lastmod>
     <changefreq>daily</changefreq>
@@ -483,6 +489,12 @@
   <url>
     <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20221110s27803.html</loc>
     <lastmod>2022-10-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20221110s27807.html</loc>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -517,6 +529,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20221110s27886.html</loc>
+    <lastmod>2022-10-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20221110s27888.html</loc>
     <lastmod>2022-10-30</lastmod>
     <changefreq>daily</changefreq>
@@ -529,14 +547,50 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20221110s27914.html</loc>
+    <lastmod>2022-10-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20221110s27918.html</loc>
     <lastmod>2022-10-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20221113s27968.html</loc>
+    <lastmod>2022-10-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20221114s27728.html</loc>
+    <lastmod>2022-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20221114s27859.html</loc>
+    <lastmod>2022-11-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20221114s27937.html</loc>
+    <lastmod>2022-11-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20221128s27800.html</loc>
     <lastmod>2022-10-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20221130s27866.html</loc>
+    <lastmod>2022-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -560,7 +614,7 @@
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/</loc>
-    <lastmod>2022-10-31</lastmod>
+    <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5846,181 +5900,181 @@
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220601.html</loc>
-    <lastmod>2022-06-19</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220602.html</loc>
-    <lastmod>2022-06-19</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220603.html</loc>
-    <lastmod>2022-06-19</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220604.html</loc>
-    <lastmod>2022-06-19</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220605.html</loc>
-    <lastmod>2022-06-19</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220606.html</loc>
-    <lastmod>2022-06-19</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220607.html</loc>
-    <lastmod>2022-06-19</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220608.html</loc>
-    <lastmod>2022-06-19</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220609.html</loc>
-    <lastmod>2022-06-19</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220610.html</loc>
-    <lastmod>2022-06-19</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220611.html</loc>
-    <lastmod>2022-06-19</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220612.html</loc>
-    <lastmod>2022-06-19</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220613.html</loc>
-    <lastmod>2022-06-19</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220614.html</loc>
-    <lastmod>2022-06-19</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220615.html</loc>
-    <lastmod>2022-06-19</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220616.html</loc>
-    <lastmod>2022-06-24</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220617.html</loc>
-    <lastmod>2022-06-24</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220618.html</loc>
-    <lastmod>2022-06-24</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220619.html</loc>
-    <lastmod>2022-06-24</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220620.html</loc>
-    <lastmod>2022-06-24</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220621.html</loc>
-    <lastmod>2022-06-24</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220622.html</loc>
-    <lastmod>2022-06-24</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220623.html</loc>
-    <lastmod>2022-06-30</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220624.html</loc>
-    <lastmod>2022-06-30</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220625.html</loc>
-    <lastmod>2022-07-02</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220626.html</loc>
-    <lastmod>2022-07-02</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220627.html</loc>
-    <lastmod>2022-07-02</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220628.html</loc>
-    <lastmod>2022-07-02</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220629.html</loc>
-    <lastmod>2022-07-02</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20220630.html</loc>
-    <lastmod>2022-07-07</lastmod>
+    <lastmod>2022-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -6944,7 +6998,7 @@
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_pub/</loc>
-    <lastmod>2022-10-31</lastmod>
+    <lastmod>2022-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
