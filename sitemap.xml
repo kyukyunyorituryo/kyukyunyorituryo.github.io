@@ -80,7 +80,7 @@
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/kindle_sale/</loc>
-    <lastmod>2022-12-30</lastmod>
+    <lastmod>2022-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -259,6 +259,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20230104s29507.html</loc>
+    <lastmod>2022-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20230105s29204.html</loc>
     <lastmod>2022-12-25</lastmod>
     <changefreq>daily</changefreq>
@@ -325,6 +331,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20230106s29382.html</loc>
+    <lastmod>2022-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20230106s29492.html</loc>
     <lastmod>2022-12-28</lastmod>
     <changefreq>daily</changefreq>
@@ -345,6 +357,12 @@
   <url>
     <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20230108s29537.html</loc>
     <lastmod>2022-12-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20230109s29472.html</loc>
+    <lastmod>2022-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -385,6 +403,24 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20230110s29633.html</loc>
+    <lastmod>2022-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20230110s29642.html</loc>
+    <lastmod>2022-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20230110s29651.html</loc>
+    <lastmod>2022-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20230110s29653.html</loc>
     <lastmod>2022-12-30</lastmod>
     <changefreq>daily</changefreq>
@@ -399,6 +435,12 @@
   <url>
     <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20230114s29139.html</loc>
     <lastmod>2022-12-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20230114s29415.html</loc>
+    <lastmod>2022-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -680,7 +722,7 @@
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/</loc>
-    <lastmod>2022-12-30</lastmod>
+    <lastmod>2022-12-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5258,7 +5300,7 @@
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_pub/</loc>
-    <lastmod>2022-12-30</lastmod>
+    <lastmod>2022-12-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
