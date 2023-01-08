@@ -80,7 +80,7 @@
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/kindle_sale/</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -165,6 +165,12 @@
   <url>
     <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20230109s29540.html</loc>
     <lastmod>2023-01-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20230109s29680.html</loc>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -403,6 +409,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20230119s29644.html</loc>
+    <lastmod>2023-01-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20230119s29660.html</loc>
     <lastmod>2023-01-06</lastmod>
     <changefreq>daily</changefreq>
@@ -421,14 +433,86 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20230119s29668.html</loc>
+    <lastmod>2023-01-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20230119s29681.html</loc>
     <lastmod>2023-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20230119s29688.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20230119s29724.html</loc>
+    <lastmod>2023-01-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20230120s29692.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20230120s29771.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20230121s29743.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20230121s29747.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20230126s29682.html</loc>
+    <lastmod>2023-01-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20230126s29749.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/2023012s29609.html</loc>
+    <lastmod>2023-01-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/20230130s29617.html</loc>
     <lastmod>2023-01-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/2023019s29582.html</loc>
+    <lastmod>2023-01-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/kindle_sale/html/2023019s29602.html</loc>
+    <lastmod>2023-01-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -524,7 +608,7 @@
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4904,205 +4988,487 @@
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20221230.html</loc>
-    <lastmod>2023-01-03</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20221231.html</loc>
-    <lastmod>2023-01-03</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230101.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230102.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230103.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230104.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230105.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230106.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230107.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230108.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230109.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230110.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230111.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230112.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230113.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230114.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230115.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230116.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230117.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230118.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230119.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230120.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230121.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230122.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230123.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230124.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230125.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230126.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230127.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230128.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230129.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230130.html</loc>
-    <lastmod>2023-01-06</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230131.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230201.html</loc>
     <lastmod>2023-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://kyukyunyorituryo.github.io/new_pub/</loc>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230202.html</loc>
     <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230203.html</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230204.html</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230205.html</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230206.html</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230207.html</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230208.html</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230209.html</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230210.html</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230211.html</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230212.html</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230213.html</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230214.html</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230215.html</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230216.html</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230217.html</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230218.html</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230219.html</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230220.html</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230221.html</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230222.html</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230223.html</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230224.html</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230225.html</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230226.html</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230227.html</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230228.html</loc>
+    <lastmod>2023-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230301.html</loc>
+    <lastmod>2023-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230302.html</loc>
+    <lastmod>2023-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230303.html</loc>
+    <lastmod>2023-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230304.html</loc>
+    <lastmod>2023-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230305.html</loc>
+    <lastmod>2023-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230306.html</loc>
+    <lastmod>2023-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230307.html</loc>
+    <lastmod>2023-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230308.html</loc>
+    <lastmod>2023-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230310.html</loc>
+    <lastmod>2023-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230311.html</loc>
+    <lastmod>2023-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230312.html</loc>
+    <lastmod>2023-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230313.html</loc>
+    <lastmod>2023-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230314.html</loc>
+    <lastmod>2023-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230315.html</loc>
+    <lastmod>2023-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230316.html</loc>
+    <lastmod>2023-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230317.html</loc>
+    <lastmod>2023-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230318.html</loc>
+    <lastmod>2023-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230320.html</loc>
+    <lastmod>2023-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_epub/html/20230321.html</loc>
+    <lastmod>2023-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/</loc>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -9717,6 +10083,168 @@
   <url>
     <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230228.html</loc>
     <lastmod>2023-01-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230301.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230302.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230303.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230305.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230306.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230307.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230308.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230309.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230310.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230311.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230313.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230314.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230315.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230316.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230317.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230318.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230320.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230321.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230322.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230323.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230324.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230325.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230327.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230328.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230329.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230330.html</loc>
+    <lastmod>2023-01-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kyukyunyorituryo.github.io/new_pub/html/20230331.html</loc>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
