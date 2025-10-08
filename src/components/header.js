@@ -19,6 +19,7 @@ return (
         Contact
       </a>
       <Link to="/distribution" className="hover:text-blue-500 transition">配布物</Link>
+                  <Link to="/aozoraepub" className="hover:text-blue-500 transition">AozoraEpub3の説明</Link>
     </nav>
   </header>
 )}
@@ -28,6 +29,7 @@ return (
     <nav className="flex justify-center space-x-8 py-4 text-sm font-semibold">
       <Link to="/" className="hover:text-blue-500 transition">トップページへ</Link>
       <Link to="/distribution" className="hover:text-blue-500 transition">配布物</Link>
+            <Link to="/aozoraepub" className="hover:text-blue-500 transition">AozoraEpub3の説明</Link>
     </nav>
   </header>
 )}}
