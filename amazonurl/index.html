@@ -1,8 +1,8 @@
-<!DOCTYPE html><html lang="ja"> <head><title>Amazon 商品URL → まとめ検索URL | 新刊チェック</title><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="EPUBの作成ソフトやkindleのセールの記事を書いています。"><meta property="og:title" content="Amazon 商品URL → まとめ検索URL"><meta property="og:description" content="EPUBの作成ソフトやkindleのセールの記事を書いています。"><meta property="og:type" content="website"><meta property="og:image" content="https://kyukyunyorituryo.github.io/i/densho512.png"><meta name="twitter:card" content="summary"><meta name="twitter:creator" content="@99nyorituryo"><meta name="twitter:title" content="Amazon 商品URL → まとめ検索URL"><meta name="twitter:description" content="EPUBの作成ソフトやkindleのセールの記事を書いています。"><meta name="twitter:image" content="https://kyukyunyorituryo.github.io/i/densho512.png"><link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.xml"><!-- Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=G-J8FW91ELEL"></script><script type="module">window.dataLayer=window.dataLayer||[];function a(){dataLayer.push(arguments)}a("js",new Date);a("config","G-J8FW91ELEL");</script><link rel="icon" href="/favicon.ico"><link rel="stylesheet" href="/_astro/Layout.CSx-Yu5f.css"></head> <body class="bg-zinc-50 text-zinc-900">  <header class="border-b bg-white"> <nav class="
+<!DOCTYPE html><html lang="ja"><head><title>Amazon 商品URL → まとめ検索URL | 新刊チェック</title><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="EPUBの作成ソフトやkindleのセールの記事を書いています。"><meta property="og:title" content="Amazon 商品URL → まとめ検索URL"><meta property="og:description" content="EPUBの作成ソフトやkindleのセールの記事を書いています。"><meta property="og:type" content="website"><meta property="og:image" content="https://kyukyunyorituryo.github.io/i/densho512.png"><meta name="twitter:card" content="summary"><meta name="twitter:creator" content="@99nyorituryo"><meta name="twitter:title" content="Amazon 商品URL → まとめ検索URL"><meta name="twitter:description" content="EPUBの作成ソフトやkindleのセールの記事を書いています。"><meta name="twitter:image" content="https://kyukyunyorituryo.github.io/i/densho512.png"><link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.xml"><!-- Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=G-J8FW91ELEL"></script><script type="module">window.dataLayer=window.dataLayer||[];function e(){dataLayer.push(arguments)}e(`js`,new Date),e(`config`,`G-J8FW91ELEL`);</script><link rel="icon" href="/favicon.ico"><link rel="stylesheet" href="/_astro/global.Bgvjxknz.css"></head><body class="bg-zinc-50 text-zinc-900"><header class="border-b bg-white"><nav class="
           mx-auto
           max-w-5xl
           px-4
-        "> <ul class="
+        "><ul class="
             flex
             flex-wrap
             items-center
@@ -12,61 +12,40 @@
             text-sm
             font-semibold
             md:text-base
-          "> <li> <a href="https://kyukyunyorituryo.github.io/" class="
+          "><li><a href="https://kyukyunyorituryo.github.io/" class="
                 text-zinc-700
                 transition
                 hover:text-blue-600
-              ">
-サイトトップ
-</a> </li> <li> <a href="https://kyukyunyorituryo.github.io/kindle_sale/" class="
+              ">サイトトップ</a></li><li><a href="https://densho-sale.pages.dev/sort/" class="
                 text-zinc-700
                 transition
                 hover:text-blue-600
-              ">
-Kindleセールチェック
-</a> </li> <li> <a href="https://kyukyunyorituryo.github.io/new_pub/" class="
+              ">Kindleセールチェック</a></li><li><a href="https://kyukyunyorituryo.github.io/new_pub/" class="
                 text-zinc-700
                 transition
                 hover:text-blue-600
-              ">
-紙の新刊
-</a> </li> <li> <a href="https://kyukyunyorituryo.github.io/i/" class="
+              ">紙の新刊</a></li><li><a href="https://kyukyunyorituryo.github.io/i/" class="
                 text-zinc-700
                 transition
                 hover:text-blue-600
-              ">
-電書ニュース
-</a> </li> <li> <a href="https://kyukyunyorituryo.github.io/new_epub/" class="
+              ">電書ニュース</a></li><li><a href="https://kyukyunyorituryo.github.io/new_epub/" class="
                 text-zinc-700
                 transition
                 hover:text-blue-600
-              ">
-Kindle新刊
-</a> </li> </ul> </nav> </header>  <main class="
+              ">Kindle新刊</a></li></ul></nav></header><main class="
         mx-auto
         max-w-5xl
         px-4
         py-8
-      ">  <div class="max-w-3xl mx-auto p-6 space-y-4"> <h2 class="text-xl font-bold">
-Amazon 商品URL → まとめ検索URL
-</h2> <p>
-アマゾンの複数の商品のURLをまとめて一つのURLにする
-</p> <textarea id="input" class="w-full h-40 p-3 border rounded-md focus:outline-none focus:ring focus:ring-blue-300" placeholder="Amazonの商品URLを複数行で貼り付けてください"></textarea> <button id="createBtn" class="px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition">
-まとめURL作成
-</button> <div id="error" class="text-red-600 font-medium hidden"></div> <div id="result" class="space-y-2 hidden"> <pre id="mergedUrl" class="p-3 bg-gray-100 rounded-md break-all text-sm"></pre> <a id="resultLink" target="_blank" rel="noopener noreferrer" class="inline-block text-blue-600 font-semibold hover:underline">
-▶ Amazon検索ページを開く
-</a> </div> </div> <script type="module">const a=document.getElementById("input"),m=document.getElementById("createBtn"),t=document.getElementById("error"),d=document.getElementById("result"),l=document.getElementById("mergedUrl"),i=document.getElementById("resultLink");m?.addEventListener("click",()=>{t?.classList.add("hidden"),d?.classList.add("hidden");const c=a.value.split(/\r?\n/).map(e=>e.trim()).filter(Boolean),n=new Set;c.forEach(e=>{const r=e.match(/\/(?:dp|gp\/product)\/([A-Z0-9]{10})/i);r&&n.add(r[1].toUpperCase())});const s=Array.from(n);if(s.length===0){t.textContent="ASINを抽出できませんでした",t?.classList.remove("hidden");return}const o=`https://www.amazon.co.jp/s?k=${encodeURIComponent(s.join("|"))}&ref=nb_sb_noss`;l.textContent=o,i.href=o,d?.classList.remove("hidden")});</script>  </main>  <footer class="
+      "><div class="max-w-3xl mx-auto p-6 space-y-4"><h2 class="text-xl font-bold">Amazon 商品URL → まとめ検索URL</h2><p>アマゾンの複数の商品のURLをまとめて一つのURLにする</p><textarea id="input" class="w-full h-40 p-3 border rounded-md focus:outline-none focus:ring focus:ring-blue-300" placeholder="Amazonの商品URLを複数行で貼り付けてください"></textarea><button id="createBtn" class="px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition">まとめURL作成</button><div id="error" class="text-red-600 font-medium hidden"></div><div id="result" class="space-y-2 hidden"><pre id="mergedUrl" class="p-3 bg-gray-100 rounded-md break-all text-sm"></pre><a id="resultLink" target="_blank" rel="noopener noreferrer" class="inline-block text-blue-600 font-semibold hover:underline">▶ Amazon検索ページを開く</a></div></div><script type="module">var e=document.getElementById(`input`),t=document.getElementById(`createBtn`),n=document.getElementById(`error`),r=document.getElementById(`result`),i=document.getElementById(`mergedUrl`),a=document.getElementById(`resultLink`);t?.addEventListener(`click`,()=>{n?.classList.add(`hidden`),r?.classList.add(`hidden`);let t=e.value.split(/\r?\n/).map(e=>e.trim()).filter(Boolean),o=new Set;t.forEach(e=>{let t=e.match(/\/(?:dp|gp\/product)\/([A-Z0-9]{10})/i);t&&o.add(t[1].toUpperCase())});let s=Array.from(o);if(s.length===0){n.textContent=`ASINを抽出できませんでした`,n?.classList.remove(`hidden`);return}let c=`https://www.amazon.co.jp/s?k=${encodeURIComponent(s.join(`|`))}&ref=nb_sb_noss`;i.textContent=c,a.href=c,r?.classList.remove(`hidden`)});</script></main><footer class="
         mt-16
         border-t
         bg-white
-      "> <div class="
+      "><div class="
           mx-auto
           max-w-5xl
           px-4
           py-6
           text-sm
           text-zinc-500
-        ">
-© 2026   <a href="https://github.com/kyukyunyorituryo" class="hover:text-blue-600">
-kyukyunyorituryo
-</a> </div> </footer> </body></html>
+        ">© 2026 <a href="https://github.com/kyukyunyorituryo" class="hover:text-blue-600">kyukyunyorituryo</a></div></footer></body></html>
