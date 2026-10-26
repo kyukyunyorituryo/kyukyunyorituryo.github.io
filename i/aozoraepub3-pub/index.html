@@ -1,0 +1,530 @@
+<!DOCTYPE html><html lang="ja"><head><title>AozoraEpub3を使ったkindle出版向けEPUB作成方法 | 新刊チェック</title><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="AozoraEpub3を使ったkindle出版向けEPUB作成方法"><meta property="og:title" content="AozoraEpub3を使ったkindle出版向けEPUB作成方法"><meta property="og:description" content="AozoraEpub3を使ったkindle出版向けEPUB作成方法"><meta property="og:type" content="website"><meta property="og:image" content="/twitter.jpg"><meta name="twitter:card" content="summary"><meta name="twitter:creator" content="@99nyorituryo"><meta name="twitter:title" content="AozoraEpub3を使ったkindle出版向けEPUB作成方法"><meta name="twitter:description" content="AozoraEpub3を使ったkindle出版向けEPUB作成方法"><meta name="twitter:image" content="/twitter.jpg"><link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.xml"><!-- Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=G-J8FW91ELEL"></script><script type="module">window.dataLayer=window.dataLayer||[];function e(){dataLayer.push(arguments)}e(`js`,new Date),e(`config`,`G-J8FW91ELEL`);</script><link rel="icon" href="/favicon.ico"><link rel="stylesheet" href="/_astro/global.xOwS84PY.css"></head><body class="bg-zinc-50 text-zinc-900"><header class="border-b bg-white"><nav class="
+          mx-auto
+          max-w-5xl
+          px-4
+        "><ul class="
+            flex
+            flex-wrap
+            items-center
+            gap-x-5
+            gap-y-3
+            py-4
+            text-sm
+            font-semibold
+            md:text-base
+          "><li><a href="https://kyukyunyorituryo.github.io/" class="
+                text-zinc-700
+                transition
+                hover:text-blue-600
+              ">サイトトップ</a></li><li><a href="https://densho-sale.pages.dev/sort/" class="
+                text-zinc-700
+                transition
+                hover:text-blue-600
+              ">Kindleセールチェック</a></li><li><a href="https://kyukyunyorituryo.github.io/new_pub/" class="
+                text-zinc-700
+                transition
+                hover:text-blue-600
+              ">紙の新刊</a></li><li><a href="https://kyukyunyorituryo.github.io/i/" class="
+                text-zinc-700
+                transition
+                hover:text-blue-600
+              ">電書ニュース</a></li><li><a href="https://kyukyunyorituryo.github.io/new_epub/" class="
+                text-zinc-700
+                transition
+                hover:text-blue-600
+              ">Kindle新刊</a></li></ul></nav></header><main class="
+        mx-auto
+        max-w-5xl
+        px-4
+        py-8
+      "><div class="
+    mx-auto
+    grid
+    max-w-7xl
+    grid-cols-1
+    gap-6
+    px-4
+    md:px-6
+    py-10
+    lg:grid-cols-[260px_minmax(0,1fr)]
+  "><aside class="
+          hidden
+          lg:block
+        "><div class="
+            sticky
+            top-10
+          "><a href="/"><h2>Home</h2></a><h2 class="
+              mb-4
+              text-lm
+              font-bold
+              uppercase
+              tracking-wider
+              text-zinc-500
+            ">Contents</h2><nav><ul class="space-y-2"><li class><a href="#kindle出版" class="
+                        block
+                        text-lm
+                        text-zinc-600
+                        transition-colors
+                        hover:text-blue-600
+                      ">Kindle出版</a></li><li class><a href="#aozoraepub3のインストール" class="
+                        block
+                        text-lm
+                        text-zinc-600
+                        transition-colors
+                        hover:text-blue-600
+                      ">AozoraEpub3のインストール</a></li><li class><a href="#javaのインストール" class="
+                        block
+                        text-lm
+                        text-zinc-600
+                        transition-colors
+                        hover:text-blue-600
+                      ">Javaのインストール</a></li><li class><a href="#インストール" class="
+                        block
+                        text-lm
+                        text-zinc-600
+                        transition-colors
+                        hover:text-blue-600
+                      ">インストール</a></li><li class><a href="#kindlegenのインストール" class="
+                        block
+                        text-lm
+                        text-zinc-600
+                        transition-colors
+                        hover:text-blue-600
+                      ">kindlegenのインストール</a></li><li class><a href="#kindle-previewer-3をインストールする" class="
+                        block
+                        text-lm
+                        text-zinc-600
+                        transition-colors
+                        hover:text-blue-600
+                      ">Kindle Previewer 3をインストールする</a></li><li class><a href="#起動" class="
+                        block
+                        text-lm
+                        text-zinc-600
+                        transition-colors
+                        hover:text-blue-600
+                      ">起動</a></li><li class><a href="#aozoraepub3の使い方" class="
+                        block
+                        text-lm
+                        text-zinc-600
+                        transition-colors
+                        hover:text-blue-600
+                      ">AozoraEpub3の使い方</a></li><li class="ml-4"><a href="#青空文庫をepubに変換" class="
+                        block
+                        text-lm
+                        text-zinc-600
+                        transition-colors
+                        hover:text-blue-600
+                      ">青空文庫をEPUBに変換</a></li><li class><a href="#本文テキストの書き方" class="
+                        block
+                        text-lm
+                        text-zinc-600
+                        transition-colors
+                        hover:text-blue-600
+                      ">本文テキストの書き方</a></li><li class="ml-4"><a href="#タイトルと著者名" class="
+                        block
+                        text-lm
+                        text-zinc-600
+                        transition-colors
+                        hover:text-blue-600
+                      ">タイトルと著者名</a></li><li class="ml-4"><a href="#章と節" class="
+                        block
+                        text-lm
+                        text-zinc-600
+                        transition-colors
+                        hover:text-blue-600
+                      ">章と節</a></li><li class="ml-4"><a href="#ふりがな" class="
+                        block
+                        text-lm
+                        text-zinc-600
+                        transition-colors
+                        hover:text-blue-600
+                      ">ふりがな</a></li><li class="ml-4"><a href="#挿絵" class="
+                        block
+                        text-lm
+                        text-zinc-600
+                        transition-colors
+                        hover:text-blue-600
+                      ">挿絵</a></li><li class="ml-4"><a href="#本文例" class="
+                        block
+                        text-lm
+                        text-zinc-600
+                        transition-colors
+                        hover:text-blue-600
+                      ">本文例</a></li><li class><a href="#青空文庫エディターを利用して書く" class="
+                        block
+                        text-lm
+                        text-zinc-600
+                        transition-colors
+                        hover:text-blue-600
+                      ">青空文庫エディターを利用して書く</a></li><li class="ml-4"><a href="#使い方" class="
+                        block
+                        text-lm
+                        text-zinc-600
+                        transition-colors
+                        hover:text-blue-600
+                      ">使い方</a></li><li class><a href="#保存" class="
+                        block
+                        text-lm
+                        text-zinc-600
+                        transition-colors
+                        hover:text-blue-600
+                      ">保存</a></li><li class="ml-4"><a href="#テキストの貼り付け" class="
+                        block
+                        text-lm
+                        text-zinc-600
+                        transition-colors
+                        hover:text-blue-600
+                      ">テキストの貼り付け</a></li><li class><a href="#本家版と改造版の違い" class="
+                        block
+                        text-lm
+                        text-zinc-600
+                        transition-colors
+                        hover:text-blue-600
+                      ">本家版と改造版の違い</a></li><li class><a href="#mery" class="
+                        block
+                        text-lm
+                        text-zinc-600
+                        transition-colors
+                        hover:text-blue-600
+                      ">Mery</a></li></ul></nav></div></aside><main class="min-w-0"><article class="
+    prose
+    prose-zinc
+    max-w-none
+    rounded-3xl
+    bg-white
+    p-4
+    md:p-8
+    shadow-sm
+  "><header class="mb-12"><h1 class="text-3xl md:text-5xl font-bold tracking-tight">電書ニュース - 電子書籍に関する情報やセールなど</h1></header><div class="mt-8 flex flex-wrap gap-2"><a href="/">Home</a><a href="/i/aozoraepub3/" class="
+          rounded-full
+          bg-zinc-100
+          px-3
+          py-1
+          text-sm
+          text-zinc-600
+          hover:bg-zinc-200
+        ">#AozoraEpub3</a></div><h2 itemprop="headline">AozoraEpub3を使ったkindle出版向けEPUB作成方法</h2><div class="p-6"><div class="
+                    mb-3
+                    text-lm
+                    text-zinc-500
+                  ">2026/5/22</div><h1 id="kindle出版">Kindle出版</h1>
+<p>Kindle出版ではdocxやEPUBで入稿することができるが、kindle以外のkoboやbookwalkerなどにも出そうとするとEPUBにする必要がある。細かい組版をしようとするとdocxでは表示が崩れることがある。pagesやGoogleドキュメントでEPUBを作ると縦書きにできなかったり表示が崩れることがある。電書連ＥＰＵＢガイドに沿って作ると国内の電子書籍販売サイトでは表示が崩れない。</p>
+<p>テキストデータがあるが、Kindle向けのファイルがない人に向けたデータ作成方法を書く。青空文庫の注記をEPUBに変換するソフトウェアを利用してEPUBを作成する。</p>
+<p>AozoraEpub3を電書協ＥＰＵＢに対応した。電書協ＥＰＵＢガイドに沿ったＥＰＵＢをできるだけ簡単に作る。電書協ＥＰＵＢではソフトウェアの変換に向いていない部分があるので違うところもある。電書協ＥＰＵＢとKADOKAWAEPUBのCSSを利用して青空文庫向けのスタイルシートを追加している。</p>
+<p>使用ソフト</p>
+<ul>
+<li>AozoraEpub3</li>
+<li>MeryとMeryの各ツール</li>
+<li>oyaziviewer</li>
+</ul>
+<h1 id="aozoraepub3のインストール">AozoraEpub3のインストール</h1>
+<p>AozoraEpub3は青空文庫のテキストファイルをEPUB３に変換するソフトウェアです。動作にはJava21以降が必要となる。JavaとWindows向けのインストーラー版がある。</p>
+<h1 id="javaのインストール">Javaのインストール</h1>
+<p>AdoptiumのJavaではインストール時にパスが通るので使いやすい。</p>
+<p><a href="https://adoptium.net/temurin/releases/">https://adoptium.net/temurin/releases/</a></p>
+<p>Windowsの場合はOperating System：Windows、Architecture：x64、Package Type：JRE、Version：21を選んでインストールしてください。今後さらに新しくする場合もあります。</p>
+<h1 id="インストール">インストール</h1>
+<p>　下のアドレスからAozoraEpub3-*.zipをダウンロード</p>
+<p><a href="https://www.vector.co.jp/soft/dl/winnt/writing/se522586.html">https://www.vector.co.jp/soft/dl/winnt/writing/se522586.html</a></p>
+<p>　AozoraEpub3-*.zip を任意のフォルダに解凍します。</p>
+<h2 id="kindlegenのインストール">kindlegenのインストール</h2>
+<p>kindlegenはepubをkindleで読める形式に変換するツールです。単体でのkindlegenの配布がなくなりました。Kindle Previewer 3内のkindlegen.exeをAozoraEpub3のフォルダーにコピーしてください。</p>
+<h2 id="kindle-previewer-3をインストールする">Kindle Previewer 3をインストールする</h2>
+<p>Kindle Previewer 3</p>
+<p><a href="https://kdp.amazon.co.jp/ja_JP/help/topic/G202131170">https://kdp.amazon.co.jp/ja_JP/help/topic/G202131170</a></p>
+<p>OSにあったKindle Previewerをインストールしてください。Windowsの場合はKindle Previewer 3をインストールし、Kindle Previewer 3フォルダー内に「C:\Users\user\AppData\Local\Amazon\Kindle Previewer 3\lib\fc\bin」kindlegenがあります。userはご自分のユーザー名に置き換えてください。</p>
+<h1 id="起動">起動</h1>
+<p>　AozoraEpub3.jar をダブルクリックして実行します。 　またはコンソールから “java -jar AozoraEpub3.jar” でも実行可。</p>
+<p>※javaが見えなければフルパスで指定</p>
+<p>例: “C:\Program Files\Eclipse Adoptium\jre-21.0.1.12-hotspot\bin/java.exe” -jar AozoraEpub3.jar</p>
+<h2 id="aozoraepub3の使い方">AozoraEpub3の使い方</h2>
+<p>起動したあとの画面</p>
+<p><img src="/_astro/aozorepub3.BwVSCsSg_1mKw7l.webp" alt="aozoraepub3" loading="lazy" decoding="async" width="609" height="504"></p>
+<h3 id="青空文庫をepubに変換">青空文庫をEPUBに変換</h3>
+<p>例として青空文庫の「吾輩は猫である」をEPUBに変換する。下記リンクから、テキストファイルのZIPファイルをダウンロードする</p>
+<p><a href="https://www.aozora.gr.jp/cards/000148/card789.html">https://www.aozora.gr.jp/cards/000148/card789.html</a></p>
+<p>テキストファイル(ルビあり)	zip	789_ruby_5639.zip</p>
+<p>　AozoraEpub3を起動後に拡張子でEPUBを選ぶとEPUB、mobiを選ぶとキンドル用に変換します。mobiの場合はkindlegenが必要です。AozoraEpub3に「ファイルまたはURL文字列をここにドラッグ＆ドロップ／ペーストで変換します」の場所にzipファイルをドラッグ・アンド・ドロップします。そうすると、変換確認画面が表示されるので、表紙を入れるなどして変換する。</p>
+<h2 id="本文テキストの書き方">本文テキストの書き方</h2>
+<h3 id="タイトルと著者名">タイトルと著者名</h3>
+<p>タイトルを始めに、改行してから、著者名を書く。その後２行改行する。</p>
+<h3 id="章と節">章と節</h3>
+<p>章は大見出しで節は中見出し</p>
+<p>見出しの書き方は後ろに書く方法と挟み込む方法があり、同じ内容に変換される。見出しはEPUBリーダーの目次としても変換される。</p>
+<ul>
+<li>
+<p>一［＃「一」は中見出し］</p>
+</li>
+<li>
+<p>［＃中見出し］一［＃中見出し終わり］</p>
+</li>
+</ul>
+<p>［＃改ページ］を入れると改ページされる。EPUB内では別のHTMLとして出力される。EPUBリーダーでは［＃改ページ］後は縦書きでは右端になる。</p>
+<h3 id="ふりがな">ふりがな</h3>
+<p>web小説で一般的な書き方と同じであるが()は使えないし半角ではない。
+｜吾輩《わがはい》</p>
+<h3 id="挿絵">挿絵</h3>
+<p>［＃ねこ（吾輩は猫である.jpg、横400×縦640）入る］</p>
+<h3 id="本文例">本文例</h3>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8;overflow-x:auto" tabindex="0" data-language="plaintext"><code><span class="line"><span>吾輩は猫である</span></span>
+<span class="line"><span>夏目漱石</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>［＃改ページ］</span></span>
+<span class="line"><span>［＃５字下げ］一［＃「一」は中見出し］</span></span>
+<span class="line"><span>　｜吾輩《わがはい》は猫である。名前はまだ無い。</span></span>
+<span class="line"><span>　どこで生れたかとんと｜見当《けんとう》がつかぬ。何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。吾輩はここで始めて人間というものを見た。しかもあとで聞くとそれは書生という人間中で一番｜獰悪《どうあく》な種族であったそうだ。この書生というのは時々我々を捕つかまえて煮にて食うという話である。</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>（省略）</span></span>
+<span class="line"><span>［＃ねこ（吾輩は猫である.jpg、横400×縦640）入る］</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>［＃５字下げ］二［＃「二」は中見出し］</span></span>
+<span class="line"><span>　吾輩は新年来多少有名になったので、猫ながらちょっと鼻が高く感ぜらるるのはありがたい。</span></span>
+<span class="line"><span>　元朝早々主人の許もとへ一枚の絵端書えはがきが来た。これは彼の交友某画家からの年始状であるが、上部を赤、下部を｜深緑《ふかみどり》で塗って、その真中に一の動物が｜蹲踞《うずくま》っているところをパステルで書いてある。主人は例の書斎でこの絵を、横から見たり、｜竪《たて》から眺めたりして、うまい色だなという。すでに一応感服したものだから、もうやめにするかと思うとやはり横から見たり、竪から見たりしている。からだを拗ねじ向けたり、手を延ばして年寄が三世相さんぜそうを見るようにしたり、または窓の方へむ</span></span>
+<span class="line"><span></span></span></code></pre>
+<h2 id="青空文庫エディターを利用して書く">青空文庫エディターを利用して書く</h2>
+<p>　青空文庫注記を手入力するのが面倒なので、ワードのようにそのまま編集できるエディターを利用する。</p>
+<p><a href="https://kyukyunyorituryo.github.io/AozoraEditor/">https://kyukyunyorituryo.github.io/AozoraEditor/</a></p>
+<h3 id="使い方">使い方</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HnCzjol347Y?si=iySh7UeZxvpgrpq1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>　基本的な操作はブログなどのエディターと同じ感覚で使う。「青空文庫変換」ボタンを押すことで下のテキストエリアに青空文庫形式として出力する。「エディターへ出力」ボタンを押すと青空文庫形式を読み込んでエディター側に表示する。</p>
+<p>h1が大見出し、h2が中見出し
+ふりがなは感じに選択した状態で「ルビ」ボタンを押すとふりがな振れる。
+縦中横は半角英数字を選択した状態で「縦中横」ボタンを押す。他縦中横の「縦書」ボタンを押すと縦中横を確認できる。
+挿絵は画像の挿入ボタンを押してからURLから文章からの相対パスを入力する。代替の説明文をいれる。
+その他に太字、斜体、下線、取り消し線、下付け、上付けなども同様にする。</p>
+<h2 id="保存">保存</h2>
+<p>「青空文庫変換」ボタンを押すと青空文庫形式に出力されるのでタイトルと著者名を入れてからテキストエディターに保存する。</p>
+<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8;overflow-x:auto" tabindex="0" data-language="plaintext"><code><span class="line"><span>［＃５字下げ］［＃大見出し］見出し1［＃大見出し終わり］</span></span>
+<span class="line"><span>［＃５字下げ］［＃中見出し］見出し2［＃中見出し終わり］</span></span>
+<span class="line"><span>ふりがな</span></span>
+<span class="line"><span>｜漢字《かんじ》</span></span>
+<span class="line"><span>縦中横</span></span>
+<span class="line"><span>12［＃「12」は縦中横］月12［＃「12」は縦中横］日</span></span>
+<span class="line"><span>挿絵</span></span>
+<span class="line"><span>［＃テスト画像（test.png）入る］</span></span>
+<span class="line"><span>ｈｒ区切り</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>［＃改ページ］</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>linkタグ</span></span>
+<span class="line"><span>&lt;a href=&quot;../&quot;&gt;https://kyukyunyorituryo.github.io/&lt;/a&gt;</span></span>
+<span class="line"><span>リストタグ</span></span>
+<span class="line"><span>［＃ここから２字下げ、折り返して３字下げ］</span></span>
+<span class="line"><span>●　リスト１</span></span>
+<span class="line"><span>●　リスト２</span></span>
+<span class="line"><span>［＃ここで字下げ終わり］</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>［＃太字］太字［＃太字終わり］</span></span>
+<span class="line"><span>［＃傍点］傍点［＃傍点終わり］</span></span>
+<span class="line"><span>［＃傍線］傍線［＃傍線終わり］</span></span>
+<span class="line"><span>［＃斜体］斜体［＃斜体終わり］</span></span>
+<span class="line"><span>［＃傍線］下線［＃傍線終わり］</span></span>
+<span class="line"><span>［＃取消線］打ち消し［＃取消線終わり］</span></span>
+<span class="line"><span>下［＃下付き小文字］付き［＃下付き小文字終わり］</span></span>
+<span class="line"><span>上［＃上付き小文字］付き［＃上付き小文字終わり］</span></span></code></pre>
+<h3 id="テキストの貼り付け">テキストの貼り付け</h3>
+<p>　文章やHTMLやワードなどからコピー＆ペーストでテキストを張り付ける。</p>
+<h1 id="本家版と改造版の違い">本家版と改造版の違い</h1>
+<p>AozoraEpub3には本家版と改造版がある。本家版が更新されなくなったのと、電書協EPUBに対応させるために改造版を作った。本家版ではEPUBチェックで目次のエラーが出ることが多い。</p>
+<p>本家版</p>
+<p><a href="https://github.com/hmdev/AozoraEpub3">https://github.com/hmdev/AozoraEpub3</a></p>
+<p>改造版</p>
+<p><a href="https://github.com/kyukyunyorituryo/AozoraEpub3">https://github.com/kyukyunyorituryo/AozoraEpub3</a></p>
+<h2 id="mery">Mery</h2>
+<p>MeryはWindows向けのエディターで
+Meryの青空文庫用整形補助マクロ</p>
+<p>ワードから青空文庫形式への変換</p>
+<p>ベースとなっている本</p>
+<div class="space-y-6"><a href="https://www.amazon.co.jp/dp/B00CNBO3HA?tag=99hatena-22&amp;linkCode=ogi&amp;th=1&amp;psc=1" target="_blank" rel="noopener noreferrer" class="
+          group
+          flex
+          gap-4
+          overflow-hidden
+          rounded-2xl
+          border
+          border-zinc-200
+          bg-white
+          p-4
+          shadow-sm
+          transition
+          duration-200
+          hover:-translate-y-1
+          hover:shadow-xl
+        "><div class="
+            shrink-0
+          "><img class="
+              h-32
+              w-24
+              rounded-lg
+              object-cover
+              shadow
+            " srcset="
+              https://m.media-amazon.com/images/I/61dhz4lGFoL._SL75_.jpg 320w,
+              https://m.media-amazon.com/images/I/61dhz4lGFoL._SL160_.jpg 640w,
+              https://m.media-amazon.com/images/I/61dhz4lGFoL._SL500_.jpg 1280w
+            " src="https://m.media-amazon.com/images/I/61dhz4lGFoL._SL75_.jpg" sizes="(max-width:768px) 96px, 160px" loading="lazy" alt="縦書き電子書籍の作り方"></div><div class="min-w-0 flex-1"><h2 class="
+              line-clamp-2
+              text-lg
+              font-bold
+              leading-snug
+              transition-colors
+              group-hover:text-orange-600
+            ">縦書き電子書籍の作り方</h2><div class="
+              mt-3
+              flex
+              flex-wrap
+              gap-2
+            "><span class="
+                rounded-full
+                bg-orange-100
+                px-3
+                py-1
+                text-xs
+                font-medium
+                text-orange-700
+              ">Kindle版</span><span class="
+                rounded-full
+                bg-zinc-100
+                px-3
+                py-1
+                text-xs
+                text-zinc-600
+              ">なし</span></div><p class="
+              mt-4
+              text-sm
+              leading-7
+              text-zinc-600
+            ">急急如律令(著)</p><div class="
+              mt-4
+              flex
+              items-center
+              gap-4
+            "><div class="
+                text-2xl
+                font-bold
+                text-orange-600
+              ">¥99</div><div class="
+                    text-sm
+                    text-zinc-500
+                  ">1 pt</div></div><div class="
+              mt-4
+              line-clamp-2
+              text-xs
+              text-zinc-400
+            ">コンピュータ・IT,コンピュータ・IT,工学</div></div></a></div>
+<div class="space-y-6"><a href="https://www.amazon.co.jp/dp/B00GN7G6WK?tag=99hatena-22&amp;linkCode=ogi&amp;th=1&amp;psc=1" target="_blank" rel="noopener noreferrer" class="
+          group
+          flex
+          gap-4
+          overflow-hidden
+          rounded-2xl
+          border
+          border-zinc-200
+          bg-white
+          p-4
+          shadow-sm
+          transition
+          duration-200
+          hover:-translate-y-1
+          hover:shadow-xl
+        "><div class="
+            shrink-0
+          "><img class="
+              h-32
+              w-24
+              rounded-lg
+              object-cover
+              shadow
+            " srcset="
+              https://m.media-amazon.com/images/I/5153d+Y9+fL._SL75_.jpg 320w,
+              https://m.media-amazon.com/images/I/5153d+Y9+fL._SL160_.jpg 640w,
+              https://m.media-amazon.com/images/I/5153d+Y9+fL._SL500_.jpg 1280w
+            " src="https://m.media-amazon.com/images/I/5153d+Y9+fL._SL75_.jpg" sizes="(max-width:768px) 96px, 160px" loading="lazy" alt="ＥＰＵＢ縦書組版"></div><div class="min-w-0 flex-1"><h2 class="
+              line-clamp-2
+              text-lg
+              font-bold
+              leading-snug
+              transition-colors
+              group-hover:text-orange-600
+            ">ＥＰＵＢ縦書組版</h2><div class="
+              mt-3
+              flex
+              flex-wrap
+              gap-2
+            "><span class="
+                rounded-full
+                bg-orange-100
+                px-3
+                py-1
+                text-xs
+                font-medium
+                text-orange-700
+              ">Kindle版</span><span class="
+                rounded-full
+                bg-zinc-100
+                px-3
+                py-1
+                text-xs
+                text-zinc-600
+              ">急急如律令</span></div><p class="
+              mt-4
+              text-sm
+              leading-7
+              text-zinc-600
+            ">急急如律令(著)</p><div class="
+              mt-4
+              flex
+              items-center
+              gap-4
+            "><div class="
+                text-2xl
+                font-bold
+                text-orange-600
+              ">¥260</div><div class="
+                    text-sm
+                    text-zinc-500
+                  ">3 pt</div></div><div class="
+              mt-4
+              line-clamp-2
+              text-xs
+              text-zinc-400
+            ">ジャンル別,工学,農学</div></div></a></div>
+<p>Android版</p>
+<p><a href="https://play.google.com/store/apps/details?id=io.github.kyukyunyorituryo.aozoraepub3">https://play.google.com/store/apps/details?id=io.github.kyukyunyorituryo.aozoraepub3</a></p></div></article><style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(function(){let e=async e=>{await(await e())()};(self.Astro||(self.Astro={})).load=e,window.dispatchEvent(new Event(`astro:load`))})();</script><script>(function(){function e(t){"@babel/helpers - typeof";return e=typeof Symbol==`function`&&typeof Symbol.iterator==`symbol`?function(e){return typeof e}:function(e){return e&&typeof Symbol==`function`&&e.constructor===Symbol&&e!==Symbol.prototype?`symbol`:typeof e},e(t)}function t(t,n){if(e(t)!=`object`||!t)return t;var r=t[Symbol.toPrimitive];if(r!==void 0){var i=r.call(t,n||`default`);if(e(i)!=`object`)return i;throw TypeError(`@@toPrimitive must return a primitive value.`)}return(n===`string`?String:Number)(t)}function n(n){var r=t(n,`string`);return e(r)==`symbol`?r:r+``}function r(e,t,r){return(t=n(t))in e?Object.defineProperty(e,t,{value:r,enumerable:!0,configurable:!0,writable:!0}):e[t]=r,e}let i=/* @__PURE__ */ new Set([`__proto__`,`constructor`,`prototype`]);{let e={0:e=>a(e),1:e=>n(e),2:e=>new RegExp(e),3:e=>new Date(e),4:e=>new Map(n(e)),5:e=>new Set(n(e)),6:e=>BigInt(e),7:e=>new URL(e),8:e=>new Uint8Array(e),9:e=>new Uint16Array(e),10:e=>new Uint32Array(e),11:e=>1/0*e},t=t=>{let[n,r]=t;return n in e?e[n](r):void 0},n=e=>e.map(t),a=e=>typeof e!=`object`||!e?e:Object.fromEntries(Object.entries(e).map(([e,n])=>[e,t(n)]));class o extends HTMLElement{constructor(...e){super(...e),r(this,`Component`,void 0),r(this,`hydrator`,void 0),r(this,`hydrate`,async()=>{var e;if(!this.hydrator||!this.isConnected)return;let t=(e=this.parentElement)==null?void 0:e.closest(`astro-island[ssr]`);if(t){t.addEventListener(`astro:hydrate`,this.hydrate,{once:!0});return}let n=this.querySelectorAll(`astro-slot`),r={},i=this.querySelectorAll(`template[data-astro-template]`);for(let e of i){let t=e.closest(this.tagName);t!=null&&t.isSameNode(this)&&(r[e.getAttribute(`data-astro-template`)||`default`]=e.innerHTML,e.remove())}for(let e of n){let t=e.closest(this.tagName);t!=null&&t.isSameNode(this)&&(r[e.getAttribute(`name`)||`default`]=e.innerHTML)}let o;try{o=this.hasAttribute(`props`)?a(JSON.parse(this.getAttribute(`props`))):{}}catch(e){let t=this.getAttribute(`component-url`)||`<unknown>`,n=this.getAttribute(`component-export`);throw n&&(t+=` (export ${n})`),console.error(`[hydrate] Error parsing props for component ${t}`,this.getAttribute(`props`),e),e}await this.hydrator(this)(this.Component,o,r,{client:this.getAttribute(`client`)}),this.removeAttribute(`ssr`),this.dispatchEvent(new CustomEvent(`astro:hydrate`))}),r(this,`unmount`,()=>{this.isConnected||this.dispatchEvent(new CustomEvent(`astro:unmount`))})}disconnectedCallback(){document.removeEventListener(`astro:after-swap`,this.unmount),document.addEventListener(`astro:after-swap`,this.unmount,{once:!0})}connectedCallback(){if(!this.hasAttribute(`await-children`)||document.readyState===`interactive`||document.readyState===`complete`)this.childrenConnectedCallback();else{let e=()=>{document.removeEventListener(`DOMContentLoaded`,e),t.disconnect(),this.childrenConnectedCallback()},t=new MutationObserver(()=>{var t;((t=this.lastChild)==null?void 0:t.nodeType)===Node.COMMENT_NODE&&this.lastChild.nodeValue===`astro:end`&&(this.lastChild.remove(),e())});t.observe(this,{childList:!0}),document.addEventListener(`DOMContentLoaded`,e)}}async childrenConnectedCallback(){let e=this.getAttribute(`before-hydration-url`);e&&await import(e),this.start()}getRetryImportUrl(e){let t=new URL(e,document.baseURI);return t.searchParams.set(`astro-retry`,Date.now().toString()),t.toString()}async importWithRetry(e){try{return await import(e)}catch(t){return await new Promise(e=>setTimeout(e,1e3)),import(this.getRetryImportUrl(e))}}handleHydrationError(e){let t=this.getAttribute(`component-url`),n=new CustomEvent(`astro:hydration-error`,{cancelable:!0,bubbles:!0,composed:!0,detail:{error:e,componentUrl:t}});this.dispatchEvent(n)&&console.error(`[astro-island] Error hydrating ${t}`,e)}async start(){let e=JSON.parse(this.getAttribute(`opts`)),t=this.getAttribute(`client`);if(Astro[t]===void 0)window.addEventListener(`astro:${t}`,()=>this.start(),{once:!0});else try{await Astro[t](async()=>{let e=this.getAttribute(`renderer-url`);try{let[t,{default:n}]=await Promise.all([this.importWithRetry(this.getAttribute(`component-url`)),e?this.importWithRetry(e):Promise.resolve({default:()=>()=>{}})]),r=this.getAttribute(`component-export`)||`default`;if(r.includes(`.`)){this.Component=t;for(let e of r.split(`.`)){if(i.has(e)||!this.Component||typeof this.Component!=`object`&&typeof this.Component!=`function`||!Object.hasOwn(this.Component,e))throw Error(`Invalid component export path: ${r}`);this.Component=this.Component[e]}}else{if(i.has(r))throw Error(`Invalid component export path: ${r}`);this.Component=t[r]}return this.hydrator=n,this.hydrate}catch(e){return this.handleHydrationError(e),()=>{}}},e,this)}catch(e){this.handleHydrationError(e)}}attributeChangedCallback(){this.hydrate()}}r(o,`observedAttributes`,[`props`]),customElements.get(`astro-island`)||customElements.define(`astro-island`,o)}})();</script><astro-island uid="1WLmuf" prefix="r1" component-url="/_astro/Share.CevhQWpH.js" component-export="default" renderer-url="/_astro/client.BedAxrth.js" props="{&quot;title&quot;:[0,&quot;AozoraEpub3を使ったkindle出版向けEPUB作成方法&quot;],&quot;url&quot;:[0,&quot;https://kyukyunyorituryo.github.io/i/aozoraepub3-pub/&quot;]}" ssr client="load" opts="{&quot;name&quot;:&quot;Share&quot;,&quot;value&quot;:true}" await-children><div class="my-10"><p class="
+          mb-5
+          text-center
+          text-lg
+          font-bold
+          tracking-widest
+          text-zinc-500
+        ">SHARE</p><div class="
+          flex
+          flex-wrap
+          items-center
+          justify-center
+          gap-4
+        "><button aria-label="Share on X" class="react-share__ShareButton 
+            transition
+            hover:scale-110
+          " style="background-color:transparent;border:none;padding:0;display:inline-flex;border-radius:50%;outline-offset:2px;font:inherit;color:inherit;cursor:pointer" type="button"><svg viewBox="0 0 24 24" width="48" height="48" fill="#000000"><circle cx="12" cy="12" r="12"></circle><g transform="translate(12 12) scale(0.5) translate(-12 -12)" fill="white"><path d="M14.234 10.162 22.977 0h-2.072l-7.591 8.824L7.251 0H.258l9.168 13.343L.258 24H2.33l8.016-9.318L16.749 24h6.993zm-2.837 3.299-.929-1.329L3.076 1.56h3.182l5.965 8.532.929 1.329 7.754 11.09h-3.182z"></path></g></svg></button><button aria-label="Share on Facebook" class="react-share__ShareButton 
+            transition
+            hover:scale-110
+          " style="background-color:transparent;border:none;padding:0;display:inline-flex;border-radius:50%;outline-offset:2px;font:inherit;color:inherit;cursor:pointer" type="button"><svg viewBox="0 0 24 24" width="48" height="48" fill="#0866FF"><g fill="white"><circle cx="12" cy="12.044" r="11"></circle><path d="M9.05 15h4.3v8.968A12 12 0 0 1 9.05 23.676z"></path></g><path d="M9.101 23.691v-7.98H6.627v-3.667h2.474v-1.58c0-4.085 1.848-5.978 5.858-5.978.401 0 .955.042 1.468.103a8.68 8.68 0 0 1 1.141.195v3.325a8.623 8.623 0 0 0-.653-.036 26.805 26.805 0 0 0-.733-.009c-.707 0-1.259.096-1.675.309a1.686 1.686 0 0 0-.679.622c-.258.42-.374.995-.374 1.752v1.297h3.919l-.386 2.103-.287 1.564h-3.246v8.245C19.396 23.238 24 18.179 24 12.044c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.628 3.874 10.35 9.101 11.647Z"></path></svg></button><button aria-label="Share on Line" class="react-share__ShareButton 
+            transition
+            hover:scale-110
+          " style="background-color:transparent;border:none;padding:0;display:inline-flex;border-radius:50%;outline-offset:2px;font:inherit;color:inherit;cursor:pointer" type="button"><svg viewBox="0 0 24 24" width="48" height="48" fill="#06C755"><g fill="white"><rect x="4" y="7" width="16" height="7" rx="1"></rect></g><path d="M19.365 9.863c.349 0 .63.285.63.631 0 .345-.281.63-.63.63H17.61v1.125h1.755c.349 0 .63.283.63.63 0 .344-.281.629-.63.629h-2.386c-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.63-.63h2.386c.346 0 .627.285.627.63 0 .349-.281.63-.63.63H17.61v1.125h1.755zm-3.855 3.016c0 .27-.174.51-.432.596-.064.021-.133.031-.199.031-.211 0-.391-.09-.51-.25l-2.443-3.317v2.94c0 .344-.279.629-.631.629-.346 0-.626-.285-.626-.629V8.108c0-.27.173-.51.43-.595.06-.023.136-.033.194-.033.195 0 .375.104.495.254l2.462 3.33V8.108c0-.345.282-.63.63-.63.345 0 .63.285.63.63v4.771zm-5.741 0c0 .344-.282.629-.631.629-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.63-.63.346 0 .628.285.628.63v4.771zm-2.466.629H4.917c-.345 0-.63-.285-.63-.629V8.108c0-.345.285-.63.63-.63.348 0 .63.285.63.63v4.141h1.756c.348 0 .629.283.629.63 0 .344-.282.629-.629.629M24 10.314C24 4.943 18.615.572 12 .572S0 4.943 0 10.314c0 4.811 4.27 8.842 10.035 9.608.391.082.923.258 1.058.59.12.301.079.766.038 1.08l-.164 1.02c-.045.301-.24 1.186 1.049.645 1.291-.539 6.916-4.078 9.436-6.975C23.176 14.393 24 12.458 24 10.314"></path></svg></button><button aria-label="Share on Hatena" class="react-share__ShareButton 
+            transition
+            hover:scale-110
+          " style="background-color:transparent;border:none;padding:0;display:inline-flex;border-radius:50%;outline-offset:2px;font:inherit;color:inherit;cursor:pointer" type="button"><svg viewBox="0 0 24 24" width="48" height="48" fill="#00A4DE"><g fill="white"><rect x="1" y="1" width="22" height="22" rx="2.5"></rect></g><path d="M20.47 0C22.42 0 24 1.58 24 3.53v16.94c0 1.95-1.58 3.53-3.53 3.53H3.53C1.58 24 0 22.42 0 20.47V3.53C0 1.58 1.58 0 3.53 0h16.94zm-3.705 14.47c-.78 0-1.41.63-1.41 1.41s.63 1.414 1.41 1.414 1.41-.645 1.41-1.425-.63-1.41-1.41-1.41zM8.61 17.247c1.2 0 2.056-.042 2.58-.12.526-.084.976-.222 1.32-.412.45-.232.78-.564 1.02-.99s.36-.915.36-1.48c0-.78-.21-1.403-.63-1.87-.42-.48-.99-.734-1.74-.794.66-.18 1.156-.45 1.456-.81.315-.344.465-.824.465-1.424 0-.48-.103-.885-.3-1.26-.21-.36-.493-.645-.883-.87-.345-.195-.735-.315-1.215-.405-.464-.074-1.29-.12-2.474-.12H5.654v10.486H8.61zm.736-4.185c.705 0 1.185.088 1.44.262.27.18.39.495.39.93 0 .405-.135.69-.42.855-.27.18-.765.254-1.44.254H8.31v-2.297h1.05zm8.656.706v-7.06h-2.46v7.06H18zM8.925 9.08c.71 0 1.185.08 1.432.24.245.16.367.435.367.83 0 .38-.13.646-.39.804-.265.154-.747.232-1.452.232h-.57V9.08h.615z"></path></svg></button><button aria-label="Share on Bluesky" class="react-share__ShareButton" style="background-color:transparent;border:none;padding:0;display:inline-flex;border-radius:50%;outline-offset:2px;font:inherit;color:inherit;cursor:pointer" type="button"><svg viewBox="0 0 24 24" width="50" height="50" fill="#0560FF"><circle cx="12" cy="12" r="12"></circle><g transform="translate(12 12) scale(0.58) translate(-12 -12)" fill="white"><path d="M5.202 2.857C7.954 4.922 10.913 9.11 12 11.358c1.087-2.247 4.046-6.436 6.798-8.501C20.783 1.366 24 .213 24 3.883c0 .732-.42 6.156-.667 7.037-.856 3.061-3.978 3.842-6.755 3.37 4.854.826 6.089 3.562 3.422 6.299-5.065 5.196-7.28-1.304-7.847-2.97-.104-.305-.152-.448-.153-.327 0-.121-.05.022-.153.327-.568 1.666-2.782 8.166-7.847 2.97-2.667-2.737-1.432-5.473 3.422-6.3-2.777.473-5.899-.308-6.755-3.369C.42 10.04 0 4.615 0 3.883c0-3.67 3.217-2.517 5.202-1.026"></path></g></svg></button></div></div><!--astro:end--></astro-island></main></div></main><footer class="
+        mt-16
+        border-t
+        bg-white
+      "><div class="
+          mx-auto
+          max-w-5xl
+          px-4
+          py-6
+          text-sm
+          text-zinc-500
+        ">© 2026 <a href="https://github.com/kyukyunyorituryo" class="hover:text-blue-600">kyukyunyorituryo</a></div></footer></body></html>
